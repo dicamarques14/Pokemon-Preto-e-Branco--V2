@@ -1,110 +1,110 @@
-No Answer
-Black
-White
-Male
-Female
-Battle
-Trade
-The City
-The Country
-Smart
-Athletic
-Time
-Money
-Appearance
-Substance
-Cool
-Cute
-Strange
+Sem Resposta
+Preto
+Branco
+Masculino
+Feminino
+Batalha
+Troca
+A Cidade
+O País
+Inteligente
+Atlético
+Horas
+Dinheiro
+Aspecto
+Firmeza
+Fixe
+Fofo
+Estranho
 Tepig
 Oshawott
 Snivy
-The Beach
-A River
-The Mountains
+A Praia
+O Rio
+As Montanhas
 Classes
-Breaks
-Lunch
-Family
-Friends
-Self
-Spring
-Summer
-Autumn
-Winter
-Sweet
-Spicy
-Sour
-Bitter
-Fun
-Cool
-Kind
-Rich
-Battles
-Collecting
-The Story
+Pausas
+Almoço
+Família
+Amigos
+Mim
+Primavera
+Verão
+Outono
+Inverno
+Doce
+Picante
+Ácido
+Amargo
+Divertido
+Fixe
+Amável
+Rico
+Batalhas
+Coleccionar
+A História
 Pokémon
-English
-Math
-Science
-Social Studies
-English
-Math
-Science
-Social Studies
-Trainer
+Português
+Matemática
+Ciência
+Estudos Sociais
+Português
+Matemática
+Ciência
+Estudos Sociais
+Treinador
 Professor
 Team Plasma
 Pokémon
-Play Outside
-Shopping
-Reading
-Video Games
-Sleeping Late
+Brincar ao Ar Livre
+Compras
+Leitura
+Video Jogos
+Adormecer Tarde
 Pop
 Rock
 Jazz
 Rap
-Classical
-News
+Clássica
+Notícias
 Drama
-Comedy
-Sports
-Cartoons
-Action
+Comédia
+Desporto
+Desenhos animados
+Acção
 Sci-Fi
 Romance
 Suspense
-Comedy
+Comédia
 Horror
 Baseball
-Soccer
+Futebol
 Basketball
-Football
-Hockey
-Martial Arts
-Red
-Green
-Blue
-Yellow
-White
-Black
-Exercising
-Reading
-Music
-Movies
-Traveling
-Cooking
-Fishing
-Video Games
-Student
-Office Worker
-Creator
-Self-Employed
-Public Official
-Homemaker
-Artist
-Job-Hopper
+Futebol americano
+Hóquei
+Artes Marciais
+Vermelho
+Verde
+Azul
+Amarelo
+Branco
+Preto
+Exercício
+Leitura
+Música
+Filmes
+Viagens
+Cozinhar
+Pescar
+Video Jogos
+Aluno
+Empregado de Escritório
+Criador
+Empregado Autónomo
+Funcionário Público
+Dona de Casa
+Artista
+Instável
 Chili
 Cilan
 Cress
@@ -117,30 +117,30 @@ Brycen
 Iris
 Drayden
 Normal
-Fire
-Water
-Electric
-Grass
-Ice
-Fighting
-Poison
-Ground
-Flying
-Psychic
-Bug
-Rock
-Ghost
-Dragon
-Dark
-Steel
-0-10 Hours
-10-20 Hours
-20-30 Hours
-30-40 Hours
-40-50 Hours
-50-60 Hours
-60-70 Hours
-70-80 Hours
-80-90 Hours
-90-100 Hours
-100+ Hours
+Fogo
+Água
+Eléctrico
+Erva
+Gelo
+Lutador
+Veneno
+Terra
+Voador
+Psíquico
+Insecto
+Pedra
+Fantasma
+Dragão
+Escuro
+Aço
+0-10 Horas
+10-20 Horas
+20-30 Horas
+30-40 Horas
+40-50 Horas
+50-60 Horas
+60-70 Horas
+70-80 Horas
+80-90 Horas
+90-100 Horas
+100+ Horas
