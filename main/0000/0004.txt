@@ -1,16 +1,16 @@
-Welcome to Battle Competition!
-There are two kinds of Battle Competition.\xfffeOne is the Wi-Fi Competition, which is held\xf000븀\x0000\xfffevia Nintendo Wi-Fi Connection, and the\xf000븀\x0000\xfffeother is the Live Competition, which is\xf000븀\x0000\xfffeheld at certain events.\xf000븁\x0000\xfffeOnly Pokémon registered in your\xfffeBattle Box can participate.\xf000븁\x0000\xfffeOnce registered, you cannot move\xfffeyour Pokémon to and from your\xf000븀\x0000\xfffeBattle Box.\xf000븁\x0000\xfffeWhen you participate in a competition,\xfffeyour Digital Player ID will be updated.\xf000븀\x0000\xfffePlease check it.\xf000븁\x0000
-To the Wi-Fi Competition
-To the Live Competition
-Check your Digital Player ID
+Bem-vindo à Competição de Batalha!
+Existem dois tipos de Competição de Batalha.\xfffeUm deles é Competição Wi-Fi, que é realizada\xf000?\x0000\xfffevia Ligação Nintendo Wi-Fi, e a\xf000?\x0000\xfffeoutra é a Competição Ao Vivo, que se\xf000?\x0000\xffferealiza em certos eventos.\xf000?\x0000\xfffeApenas os Pokémon registados na tua\xfffeCaixa de Batalha podem participar.\xf000?\x0000\xfffeUma vez registado, não podes colocar\xfffeos teus Pokémon para e fora da tua\xf000?\x0000\xfffeCaixa de Batalha.\xf000?\x0000\xfffeDentro da competição\xfffeo teu ID de Jogador Digital será actualizado.\xf000?\x0000\xfffePor favor, verifica-o.\xf000?\x0000
+Para a Competição Wi-Fi
+Para a Competição Ao Vivo
+Verificar o ID de Jogador Digital
 Info
-Back
-Participate
-To participate in the Wi-Fi Competition,\xfffeyou'll need to access the webpage\xf000븀\x0000\xfffeof the Pokémon Global Link to register.\xf000븀\x0000\xfffehttp://www.pokemon-gl.com\xf000븁\x0000\xfffePlease check the Pokémon Global Link\xfffewebpage for the competition regulations,\xf000븀\x0000\xfffeits duration, and other information.\xf000븁\x0000
-Will you participate in\xfffethe Wi-Fi Competition?
+Voltar
+Participar
+Para participar na Competição Wi-Fi,\xfffevais ter de aceder a página Web\xf000?\x0000\xfffede Pokémon Global Link para te registares.\xf000?\x0000\xfffehttp://www.pokemon-gl.com\xf000?\x0000\xfffePor favor, verifica a página Web do\xfffePokémon Global Link para ver os regulamentos da competição,\xf000?\x0000\xfffea sua duração e outra informação.\xf000?\x0000
+Vais participar\xfffena Competição Wi-Fi?
 
 
 
-Cancel participation
-Will you participate in\xfffethe Live Competition?
-You can check the information\xffferegarding the Live Competition at the\xf000븀\x0000\xfffePokémon official website:\xf000븀\x0000\xfffehttp://www.pokemon.com.\xf000븁\x0000\xfffePlease check the Pokémon official website\xfffefor the competition regulations,\xf000븀\x0000\xfffeits duration, and other information.\xf000븁\x0000
+Cancelar participação
+Vais participar\xfffena Competição Ao Vivo?
+Podes verificar a informação\xfffeacerca da Competição Ao Vivo no\xf000?\x0000\xfffesite oficial de Pokémon:\xf000?\x0000\xfffehttp://www.pokemon.com.\xf000?\x0000\xfffePor favor, verifica o site oficial de Pokémon\xfffepara ver os regulamentos da competição,\xf000?\x0000\xfffea sua duração e outra informação.\xf000?\x0000
