@@ -1,21 +1,21 @@
-NAME:
-WORK:
-HOBBY:
-TIME:
+NOME:
+TRABALHO:
+PASSATEMPO:
+HORAS:
 \xf000Ĩ\x0001\x0000
 \xf000Ĩ\x0001\x0000
 \xf000Ȃ\x0001\x0002:\xf000ȁ\x0001\x0003
-FROM:
+DE:
 \xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
-Number of times thanked:\xfffeNumber of people passed by:
+Nº de vezes agradecido:\xfffeNº de pessoas que passaram:
 \xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000\xfffe\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0001
 
 
-Passerby time: \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
-Passerby time: \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
-Battling a wild \xf000ā\x0001\x0000
-Battling a special Pokémon
-Battling \xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001
-Battling a Gym Leader
-Battling a special Trainer
-Moving through \xf000ą\x0001\x0000
+Tempo transeunte: \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
+Tempo transeunte: \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
+A combater um \xf000ā\x0001\x0000 selvagem
+A combater um Pokémon especial
+A combater \xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001
+A combater um Líder de Ginásio
+A combater um Treinador especial
+A passar por \xf000ą\x0001\x0000
