@@ -1,55 +1,55 @@
-\xf000Ă\x0001\x0000 is selected.
+O \xf000Ă\x0001\x0000 foi escolhido.
 
-Release this Pokémon?
-\xf000Ă\x0001\x0000 was released.
-Bye-bye, \xf000Ă\x0001\x0000!
-Your party's full!
-That's your last Pokémon!
-What do you want to do?
-Jump to which Box?
-Please pick a theme.
-Pick the wallpaper.
-Continue Box operations?
-The Box is full.
-The Bag is full.
-Took the \xf000ĉ\x0001\x0000.
-\xf000ĉ\x0001\x0000 is now being held.
-Which one will you take?
-Place it in which Box?
-
-
-
-Take this \xf000ĉ\x0001\x0000?
-Mail can't be taken away.
-\xf000ĉ\x0001\x0000 is selected.
-Put away \xf000ĉ\x0001\x0000?
-Placed \xf000ĉ\x0001\x0000 in the Bag.
-It can hold an item.
-Please remove the Mail.
-You can't release an Egg.
-\xf000Ă\x0001\x0000 came back!
-Was it worried about you?
-An Egg can't hold an item.
-Touch the Mark!
+Libertar este Pokémon?
+O \xf000Ă\x0001\x0000 foi libertado.
+Tchau, \xf000Ă\x0001\x0000!
+A tua equipa está cheia!
+Esse é o teu último Pokémon!
+O que queres fazer?
+Saltar para que Caixa?
+Por favor, escolhe um tema.
+Selecciona a imagem de fundo.
+Continuar as operações da Caixa?
+A Caixa está cheia.
+A Mochila está cheia.
+Levaste o \xf000ĉ\x0001\x0000.
+\xf000ĉ\x0001\x0000 está a ser usado.
+Qual irás levar?
+Colocar em que Caixa?
 
 
 
+Leva este \xf000ĉ\x0001\x0000?
+O Correio não pode ser levado.
+O \xf000ĉ\x0001\x0000 foi escolhido.
+Pôr de lado o \xf000ĉ\x0001\x0000?
+Colocaste o \xf000ĉ\x0001\x0000 na Mochila.
+Consegue segurar um Item.
+Por favor, elimina o Correio.
+Não podes libertar um Ovo.
+O \xf000Ă\x0001\x0000 voltou!
+Será que esteve preocupado contigo?
+Um Ovo não pode segurar um item.
+Tocar a Indicação!
 
-DEPOSIT POKÉMON
-WITHDRAW POKÉMON
-MOVE POKÉMON
-MOVE ITEMS
-BATTLE BOX
-SELECT A SLEEPY POKÉMON
-Mail cannot be moved!
-It cannot hold \xf000ĉ\x0001\x0000!
-It has Mail!
-You're out of Pokémon that can fight!
-Mail cannot be moved!
-It cannot hold Mail here.
-Eggs cannot be selected!
-\xf000Ă\x0001\x0000 will be tucked in.\xfffeOK?
-This Pokémon doesn't seem\xfffesleepy now.
-Select another Pokémon?
-Your Battle Box is locked.\xfffeYou cannot move your Pokémon.
-Your Battle Box is locked.\xfffeItems cannot be given or taken.
+
+
+
+DEPOSITAR UM POKÉMON
+RETIRAR UM POKÉMON
+MOVER UM POKÉMON
+MOVER ITEMS
+CAIXA DE BATALHA
+ESCOLHER UM POKÉMON SONOLENTO
+O Correio não pode ser movido!
+Não suporta o \xf000ĉ\x0001\x0000!
+Tem Correio!
+Já não tens Pokémon com que lutar!
+O Correio não pode ser movido!
+Não suporta Correio aqui.
+Os Ovos não podem ser escolhidos!
+O \xf000Ă\x0001\x0000 será metido para dentro.\xfffeOK?
+Este Pokémon não parece sonolento\xfffeneste momento.
+Escolher outro Pokémon?
+A tua Caixa de Batalha está fechada.\xfffeNão podes mover os teus Pokémon.
+A tua Caixa de Batalha está fechada.\xfffeOs Items não podem ser dados ou levados.
