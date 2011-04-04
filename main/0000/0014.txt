@@ -11,8 +11,8 @@ O(A)\xf000Ă\x0001\x0000inimigo recuperou\xfffedo desmaio!
 É muito eficaz contra o\xf000Ă\x0001\x0000\xfffeselvagem e o\xf000Ă\x0001\x0001!
 É muito eficaz contra o\xfffe\xf000Ă\x0001\x0000inimigo e o\xf000Ă\x0001\x0001!
 É muito eficaz contra os\xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001e\xf000Ă\x0001\x0002!
-É muito eficaz contra os\xf000Ă\x0001\x0000\xfffe, \xf000Ă\x0001\x0001e\xf000Ă\x0001\x0002selvagens!
-É muito eficaz contra os\xfffe\xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001e\xf000Ă\x0001\x0002inimigos!
+É muito eficaz contra os\xf000Ă\x0001\x0000,\xfffee\xf000Ă\x0001\x0001e\xf000Ă\x0001\x0002selvagens!
+É muito eficaz contra os\xfffe\xf000Ă\x0001\x0000e\xf000Ă\x0001\x0001e\xf000Ă\x0001\x0002inimigos!
 Não é muito eficaz contra o\xf000Ă\x0001\x0000.
 Não é muito eficaz contra o\xfffe\xf000Ă\x0001\x0000selvagem.
 Não é muito eficaz contra o\xfffe\xf000Ă\x0001\x0000inimigo.
