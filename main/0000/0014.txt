@@ -400,106 +400,106 @@ O\xf000Ă\x0001\x0000inimigo foi fustigado\xfffepela tempestade de areia!
 O\xf000Ă\x0001\x0000foi fustigado\xfffepelo granizo!
 O\xf000Ă\x0001\x0000selvagem foi fustigado\xfffepelo granizo!
 O\xf000Ă\x0001\x0000inimigo foi fustigado\xfffepelo granizo!
-\xf000Ă\x0001\x0000\xfffeis hurt!
-The wild\xf000Ă\x0001\x0000\xfffeis hurt!
-The foe's\xf000Ă\x0001\x0000\xfffeis hurt!
-\xf000Ă\x0001\x0000acquired\xfffe\xf000Ć\x0001\x0001!
-The wild\xf000Ă\x0001\x0000acquired\xfffe\xf000Ć\x0001\x0001!
-The foe's\xf000Ă\x0001\x0000acquired\xfffe\xf000Ć\x0001\x0001!
-\xf000Ă\x0001\x0000floats in the air\xfffewith its Air Balloon!
-The wild\xf000Ă\x0001\x0000floats in the air\xfffewith its Air Balloon!
-The foe's\xf000Ă\x0001\x0000floats in the air\xfffewith its Air Balloon!
-\xf000Ă\x0001\x0000's Air Balloon\xfffepopped!
-The wild\xf000Ă\x0001\x0000's Air Balloon\xfffepopped!
-The foe's\xf000Ă\x0001\x0000's Air Balloon\xfffepopped!
-\xf000Ă\x0001\x0000is switched out\xfffewith the Eject Button!
-The wild\xf000Ă\x0001\x0000is switched out\xfffewith the Eject Button!
-The foe's\xf000Ă\x0001\x0000is switched out\xfffewith the Eject Button!
-\xf000Ă\x0001\x0000held up its Red Card\xfffeagainst \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000held up its Red Card\xfffeagainst the wild \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000held up its Red Card\xfffeagainst the foe's \xf000Ă\x0001\x0001!
-The wild\xf000Ă\x0001\x0000held up its Red Card\xfffeagainst \xf000Ă\x0001\x0001!
-The wild\xf000Ă\x0001\x0000held up its Red Card\xfffeagainst the wild \xf000Ă\x0001\x0001!
-The foe's\xf000Ă\x0001\x0000held up its Red Card\xfffeagainst \xf000Ă\x0001\x0001!
-The foe's\xf000Ă\x0001\x0000held up its Red Card\xfffeagainst the foe's \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000was hurt\xfffeby the Rocky Helmet!
-The wild\xf000Ă\x0001\x0000was hurt\xfffeby the Rocky Helmet!
-The foe's\xf000Ă\x0001\x0000was hurt\xfffeby the Rocky Helmet!
-The power of\xf000Ă\x0001\x0000's\xfffeFire-type moves rose!
-The power of the wild\xf000Ă\x0001\x0000's\xfffeFire-type moves rose!
-The power of the foe's\xf000Ă\x0001\x0000's\xfffeFire-type moves rose!
-\xf000Ă\x0001\x0000\xfffewas hurt!
-The wild\xf000Ă\x0001\x0000\xfffewas hurt!
-The foe's\xf000Ă\x0001\x0000\xfffewas hurt!
-It was alerted to\xf000Ă\x0001\x0000's\xfffe\xf000ć\x0001\x0001!
-It was alerted to the wild\xf000Ă\x0001\x0000's\xfffe\xf000ć\x0001\x0001!
-It was alerted to the foe's\xf000Ă\x0001\x0000's\xfffe\xf000ć\x0001\x0001!
-\xf000Ă\x0001\x0000\xfffeshuddered!
-The wild\xf000Ă\x0001\x0000\xfffeshuddered!
-The foe's\xf000Ă\x0001\x0000\xfffeshuddered!
-\xf000Ă\x0001\x0000frisked its\xfffetarget and found one \xf000ĉ\x0001\x0001!
-The wild\xf000Ă\x0001\x0000frisked its\xfffetarget and found one \xf000ĉ\x0001\x0001!
-The foe's\xf000Ă\x0001\x0000frisked its\xfffetarget and found one \xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000\xfffebreaks the mold!
-The wild\xf000Ă\x0001\x0000\xfffebreaks the mold!
-The foe's\xf000Ă\x0001\x0000\xfffebreaks the mold!
-\xf000Ă\x0001\x0000is\xfffeloafing around!
-The wild\xf000Ă\x0001\x0000is\xfffeloafing around!
-The foe's\xf000Ă\x0001\x0000is\xfffeloafing around!
-\xf000Ă\x0001\x0000\xfffetook the attack!
-The wild\xf000Ă\x0001\x0000\xfffetook the attack!
-The foe's\xf000Ă\x0001\x0000\xfffetook the attack!
-\xf000Ă\x0001\x0000stays awake!
-The wild\xf000Ă\x0001\x0000stays awake!
-The foe's\xf000Ă\x0001\x0000stays awake!
-\xf000Ă\x0001\x0000anchors itself!
-The wild\xf000Ă\x0001\x0000anchors itself!
-The foe's\xf000Ă\x0001\x0000anchors itself!
-\xf000Ă\x0001\x0000sucked up the\xfffeliquid ooze!
-The wild\xf000Ă\x0001\x0000sucked up the\xfffeliquid ooze!
-The foe's\xf000Ă\x0001\x0000sucked up the\xfffeliquid ooze!
-It stole\xfffe\xf000Ă\x0001\x0000's \xf000ĉ\x0001\x0001!
-It stole\xfffethe wild\xf000Ă\x0001\x0000's \xf000ĉ\x0001\x0001!
-It stole\xfffethe foe's\xf000Ă\x0001\x0000's \xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000's Ability\xfffebecame Mummy!
-The wild\xf000Ă\x0001\x0000's Ability\xfffebecame Mummy!
-The foe's\xf000Ă\x0001\x0000's Ability\xfffebecame Mummy!
-It bounced back\xfffe\xf000Ă\x0001\x0000's \xf000ć\x0001\x0001!
-It bounced back\xfffethe wild\xf000Ă\x0001\x0000's \xf000ć\x0001\x0001!
-It bounced back\xfffethe foe's\xf000Ă\x0001\x0000's \xf000ć\x0001\x0001!
-\xf000Ă\x0001\x0000avoids attacks\xfffeby its ally Pokémon!
-The wild\xf000Ă\x0001\x0000avoids attacks\xfffeby its ally Pokémon!
-The foe's\xf000Ă\x0001\x0000avoids attacks\xfffeby its ally Pokémon!
-It poisoned\xf000Ă\x0001\x0000!
-It poisoned the wild\xf000Ă\x0001\x0000!
-It poisoned the foe's\xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0000harvested\xfffeone \xf000ĉ\x0001\x0001!
-The wild\xf000Ă\x0001\x0000harvested\xfffeone \xf000ĉ\x0001\x0001!
-The foe's\xf000Ă\x0001\x0000harvested\xfffeone \xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000's\xfffeillusion wore off!
-The wild\xf000Ă\x0001\x0000's\xfffeillusion wore off!
-The foe's\xf000Ă\x0001\x0000's\xfffeillusion wore off!
-\xf000Ă\x0001\x0000\xfffemaxed its Attack!
-The wild\xf000Ă\x0001\x0000\xfffemaxed its Attack!
-The foe's\xf000Ă\x0001\x0000\xfffemaxed its Attack!
-\xf000Ă\x0001\x0000\xfffeis tormented!
-The wild\xf000Ă\x0001\x0000\xfffeis tormented!
-The foe's\xf000Ă\x0001\x0000\xfffeis tormented!
-\xf000Ă\x0001\x0000is exerting\xfffeits pressure!
-The wild\xf000Ă\x0001\x0000is exerting\xfffeits pressure!
-The foe's\xf000Ă\x0001\x0000is exerting\xfffeits pressure!
-\xf000Ă\x0001\x0000found\xfffeone \xf000ĉ\x0001\x0001!
-The wild\xf000Ă\x0001\x0000found\xfffeone \xf000ĉ\x0001\x0001!
-The foe's\xf000Ă\x0001\x0000found\xfffeone \xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000's item\xfffecannot be stolen!
-The wild\xf000Ă\x0001\x0000's item\xfffecannot be stolen!
-The foe's\xf000Ă\x0001\x0000's item\xfffecannot be stolen!
-\xf000Ă\x0001\x0000\xfffecan't get it going!
-The wild\xf000Ă\x0001\x0000\xfffecan't get it going!
-The foe's\xf000Ă\x0001\x0000\xfffecan't get it going!
-\xf000Ă\x0001\x0000finally got\xfffeits act together!
-The wild\xf000Ă\x0001\x0000finally got\xfffeits act together!
-The foe's\xf000Ă\x0001\x0000finally got\xfffeits act together!
+O\xf000Ă\x0001\x0000\xfffeestá magoado!
+O\xf000Ă\x0001\x0000selvagem\xfffeestá magoado!
+O\xf000Ă\x0001\x0000inimigo\xfffeestá magoado!
+O\xf000Ă\x0001\x0000adquiriu o\xfffe\xf000Ć\x0001\x0001!
+O\xf000Ă\x0001\x0000selvagem adquiriu o\xfffe\xf000Ć\x0001\x0001!
+O\xf000Ă\x0001\x0000inimigo adquiriu o\xfffe\xf000Ć\x0001\x0001!
+O\xf000Ă\x0001\x0000flutua no ar\xfffecom o seu Air Balloon!
+O\xf000Ă\x0001\x0000selvagem flutua no ar\xfffecom o seu Air Balloon!
+O\xf000Ă\x0001\x0000inimigo flutua no ar\xfffecom o seu Air Balloon!
+O Air Balloon do\xfffe\xf000Ă\x0001\x0000rebentou!
+O Air Balloon do\xfffe\xf000Ă\x0001\x0000selvagem rebentou!
+O Air Balloon do\xfffe\xf000Ă\x0001\x0000inimigo rebentou!
+O\xf000Ă\x0001\x0000foi substituído\xfffecom o Botão de Ejectar!
+O\xf000Ă\x0001\x0000selvagem foi substituído\xfffecom o Botão de Ejectar!
+O\xf000Ă\x0001\x0000inimigo foi substituído\xfffecom o Botão de Ejectar!
+O\xf000Ă\x0001\x0000usou o seu Red Card\xfffecontra o\xf000Ă\x0001\x0001!
+O\xf000Ă\x0001\x0000usou o seu Red Card\xfffecontra o\xf000Ă\x0001\x0001selvagem!
+O\xf000Ă\x0001\x0000usou o seu Red Card\xfffecontra o\xf000Ă\x0001\x0001inimigo!
+O\xf000Ă\x0001\x0000selvagem usou o seu Red Card\xfffecontra o\xf000Ă\x0001\x0001!
+O\xf000Ă\x0001\x0000selvagem usou o seu Red Card\xfffecontra o\xf000Ă\x0001\x0001selvagem!
+O\xf000Ă\x0001\x0000inimigo usou o seu Red Card\xfffecontra o\xf000Ă\x0001\x0001!
+O\xf000Ă\x0001\x0000inimigo usou o seu Red Card\xfffecontra o\xf000Ă\x0001\x0001inimigo!
+O\xf000Ă\x0001\x0000foi magoado\xfffepelo Rocky Helmet!
+O\xf000Ă\x0001\x0000selvagem foi magoado\xfffepelo Rocky Helmet!
+O\xf000Ă\x0001\x0000inimigo foi magoado\xfffepelo Rocky Helmet!
+O poder dos ataques do tipo Fogo\xfffedo\xf000Ă\x0001\x0000aumentou!
+O poder dos ataques do tipo Fogo\xfffedo\xf000Ă\x0001\x0000selvagem aumentou!
+O poder dos ataques do tipo Fogo\xfffedo\xf000Ă\x0001\x0000inimigo aumentou!
+O\xf000Ă\x0001\x0000\xfffefoi magoado!
+O\xf000Ă\x0001\x0000selvagem\xfffefoi magoado!
+O\xf000Ă\x0001\x0000inimigo\xfffefoi magoado!
+Foi alertado para o\xf000ć\x0001\x0001\xfffedo\xf000Ă\x0001\x0000!
+Foi alertado para o\xf000ć\x0001\x0001\xfffedo\xf000Ă\x0001\x0000selvagem!
+Foi alertado para o\xf000ć\x0001\x0001\xfffedo\xf000Ă\x0001\x0000inimigo!
+O\xf000Ă\x0001\x0000\xfffeestremeceu!
+O\xf000Ă\x0001\x0000selvagem\xfffeestremeceu!
+O\xf000Ă\x0001\x0000inimigo\xfffeestremeceu!
+O\xf000Ă\x0001\x0000saltou sobre o seu\xfffealvo e encontrou um\xf000ĉ\x0001\x0001!
+O\xf000Ă\x0001\x0000selvagem saltou sobre o seu\xfffealvo e encontrou um\xf000ĉ\x0001\x0001!
+O\xf000Ă\x0001\x0000inimigo saltou sobre o seu\xfffealvo e encontrou um\xf000ĉ\x0001\x0001!
+O\xf000Ă\x0001\x0000\xfffequebrou o molde!
+O\xf000Ă\x0001\x0000selvagem\xfffequebrou o molde!
+O\xf000Ă\x0001\x0000inimigo\xfffequebrou o molde!
+O\xf000Ă\x0001\x0000está\xfffea vadiar!
+O\xf000Ă\x0001\x0000selvagem\xfffeestá a vadiar!
+O\xf000Ă\x0001\x0000inimigo\xfffeestá a vadiar!
+O\xf000Ă\x0001\x0000\xfffeassumiu o ataque!
+O\xf000Ă\x0001\x0000selvagem\xfffeassumiu o ataque!
+O\xf000Ă\x0001\x0000inimigo\xfffeassumiu o ataque!
+O\xf000Ă\x0001\x0000continua acordado!
+O\xf000Ă\x0001\x0000selvagem continua acordado!
+O\xf000Ă\x0001\x0000inimigo continua acordado!
+O\xf000Ă\x0001\x0000parou com firmeza!
+O\xf000Ă\x0001\x0000selvagem parou com firmeza!
+O\xf000Ă\x0001\x0000inimigo parou com firmeza!
+O\xf000Ă\x0001\x0000sugou a\xfffelama!
+O\xf000Ă\x0001\x0000selvagem sugou a\xfffelama!
+O\xf000Ă\x0001\x0000inimigo sugou a\xfffelama!
+Ele roubou o\xf000ĉ\x0001\x0001do\xfffe\xf000Ă\x0001\x0000!
+Ele roubou o\xf000ĉ\x0001\x0001do\xfffe\xf000Ă\x0001\x0000selvagem!
+Ele roubou o\xf000ĉ\x0001\x0001do\xfffe\xf000Ă\x0001\x0000inimigo!
+A Habilidade do\xf000Ă\x0001\x0000\xfffetornou-se Múmia!
+A Habilidade do\xf000Ă\x0001\x0000selvagem\xfffetornou-se Múmia!
+A Habilidade do\xf000Ă\x0001\x0000inimigo\xfffetornou-se Múmia!
+Ele devolveu o\xf000ć\x0001\x0001do\xfffe\xf000Ă\x0001\x0000!
+Ele devolveu o\xf000ć\x0001\x0001do\xfffe\xf000Ă\x0001\x0000selvagem!
+Ele devolveu o\xf000ć\x0001\x0001do\xfffe\xf000Ă\x0001\x0000inimigo!
+O\xf000Ă\x0001\x0000evita os ataques\xfffepelo seu amigo Pokémon!
+O\xf000Ă\x0001\x0000selvagem evita os ataques\xfffepelo seu amigo Pokémon!
+O\xf000Ă\x0001\x0000inimigo evita os ataques\xfffepelo seu amigo Pokémon!
+Envenenou o\xf000Ă\x0001\x0000!
+Envenenou o\xf000Ă\x0001\x0000selvagem!
+Envenenou o\xf000Ă\x0001\x0000inimigo!
+O\xf000Ă\x0001\x0000colheu\xfffeum\xf000ĉ\x0001\x0001!
+O\xf000Ă\x0001\x0000selvagem colheu\xfffeum\xf000ĉ\x0001\x0001!
+O\xf000Ă\x0001\x0000inimigo colheu\xfffeum\xf000ĉ\x0001\x0001!
+A ilusão do\xf000Ă\x0001\x0000\xfffedesapareceu!
+A ilusão do\xf000Ă\x0001\x0000selvagem\xfffedesapareceu!
+A ilusão do\xf000Ă\x0001\x0000inimigo\xfffedesapareceu!
+O\xf000Ă\x0001\x0000\xfffemaximizou o seu Ataque!
+O\xf000Ă\x0001\x0000selvagem\xfffemaximizou o seu Ataque!
+O\xf000Ă\x0001\x0000inimigo\xfffemaximizou o seu Ataque!
+O\xf000Ă\x0001\x0000\xfffeestá a ser tormentado!
+O\xf000Ă\x0001\x0000selvagem\xfffeestá a ser tormentado!
+O\xf000Ă\x0001\x0000inimigo\xfffeestá a ser tormentado!
+O\xf000Ă\x0001\x0000está a\xfffeexercer pressão!
+O\xf000Ă\x0001\x0000selvagem está a\xfffeexercer pressão!
+O\xf000Ă\x0001\x0000inimigo está a\xfffeexercer pressão!
+O\xf000Ă\x0001\x0000encontrou\xfffeum\xf000ĉ\x0001\x0001!
+O\xf000Ă\x0001\x0000selvagem encontrou\xfffeum\xf000ĉ\x0001\x0001!
+O\xf000Ă\x0001\x0000inimigo encontrou\xfffeum\xf000ĉ\x0001\x0001!
+O item do\xf000Ă\x0001\x0000\xfffenão pode ser roubado!
+O item do\xf000Ă\x0001\x0000selvagem\xfffenão pode ser roubado!
+O item do\xf000Ă\x0001\x0000inimigo\xfffenão pode ser roubado!
+O\xf000Ă\x0001\x0000\xfffenão consegue ir buscar!
+O\xf000Ă\x0001\x0000selvagem\xfffenão consegue ir buscar!
+O\xf000Ă\x0001\x0000inimigo\xfffenão consegue ir buscar!
+O\xf000Ă\x0001\x0000começou finalmente\xfffea agir!
+O\xf000Ă\x0001\x0000selvagem\xfffecomeçou finalmente a agir!
+O\xf000Ă\x0001\x0000inimigo\xfffecomeçou finalmente a agir!
 \xf000Ă\x0001\x0000is radiating\xfffea bursting aura!
 The wild\xf000Ă\x0001\x0000is radiating\xfffea bursting aura!
 The foe's\xf000Ă\x0001\x0000is radiating\xfffea bursting aura!
