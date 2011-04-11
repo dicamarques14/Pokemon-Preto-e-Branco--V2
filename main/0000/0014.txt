@@ -262,7 +262,7 @@ O\xf000Ă\x0001\x0000inimigo foi queimado pelo\xf000ĉ\x0001\x0001!
 O\xf000Ă\x0001\x0000foi magoado\xfffepela sua queimadura!
 O\xf000Ă\x0001\x0000selvagem foi magoado\xfffepela sua queimadura!
 O\xf000Ă\x0001\x0000inimigo foi magoado\xfffepela sua queimadura!
-A queimadura do\xf000Ă\x0001\x0000foi curada.
+O\xf000Ă\x0001\x0000curou a sua queimadura!
 O\xf000Ă\x0001\x0000selvagem curou a sua queimadura!
 O\xf000Ă\x0001\x0000inimigo curou a sua queimadura!
 O\xf000Ă\x0001\x0000já tem\xfffeuma queimadura.
