@@ -500,105 +500,105 @@ O\xf000Ă\x0001\x0000inimigo\xfffenão consegue ir buscar!
 O\xf000Ă\x0001\x0000começou finalmente\xfffea agir!
 O\xf000Ă\x0001\x0000selvagem\xfffecomeçou finalmente a agir!
 O\xf000Ă\x0001\x0000inimigo\xfffecomeçou finalmente a agir!
-\xf000Ă\x0001\x0000is radiating\xfffea bursting aura!
-The wild\xf000Ă\x0001\x0000is radiating\xfffea bursting aura!
-The foe's\xf000Ă\x0001\x0000is radiating\xfffea bursting aura!
-\xf000Ă\x0001\x0000is radiating\xfffea blazing aura!
-The wild\xf000Ă\x0001\x0000is radiating\xfffea blazing aura!
-The foe's\xf000Ă\x0001\x0000is radiating\xfffea blazing aura!
-\xf000Ă\x0001\x0000swapped\xfffeAbilities with its target!
-The wild\xf000Ă\x0001\x0000swapped\xfffeAbilities with its target!
-The foe's\xf000Ă\x0001\x0000swapped\xfffeAbilities with its target!
-\xf000Ă\x0001\x0000braced\xfffeitself!
-The wild\xf000Ă\x0001\x0000braced\xfffeitself!
-The foe's\xf000Ă\x0001\x0000braced\xfffeitself!
-\xf000Ă\x0001\x0000endured\xfffethe hit!
-The wild\xf000Ă\x0001\x0000endured\xfffethe hit!
-The foe's\xf000Ă\x0001\x0000endured\xfffethe hit!
-\xf000Ă\x0001\x0000protected\xfffeitself!
-The wild\xf000Ă\x0001\x0000protected\xfffeitself!
-The foe's\xf000Ă\x0001\x0000protected\xfffeitself!
-It broke through\xfffe\xf000Ă\x0001\x0000's protection!
-It broke through the wild\xfffe\xf000Ă\x0001\x0000's protection!
-It broke through the foe's\xfffe\xf000Ă\x0001\x0000's protection!
-\xf000Ă\x0001\x0000\xfffeprotected itself!
-The wild\xf000Ă\x0001\x0000\xfffeprotected itself!
-The foe's\xf000Ă\x0001\x0000\xfffeprotected itself!
-\xf000Ă\x0001\x0000fell for\xfffethe feint!
-The wild\xf000Ă\x0001\x0000fell for\xfffethe feint!
-The foe's\xf000Ă\x0001\x0000fell for\xfffethe feint!
-\xf000Ă\x0001\x0000flew\xfffeup high!
-The wild\xf000Ă\x0001\x0000flew\xfffeup high!
-The foe's\xf000Ă\x0001\x0000flew\xfffeup high!
-\xf000Ă\x0001\x0000's rage\xfffeis building!
-The wild\xf000Ă\x0001\x0000's rage\xfffeis building!
-The foe's\xf000Ă\x0001\x0000's rage\xfffeis building!
-\xf000Ă\x0001\x0000hid\xfffeunderwater!
-The wild\xf000Ă\x0001\x0000hid\xfffeunderwater!
-The foe's\xf000Ă\x0001\x0000hid\xfffeunderwater!
-\xf000Ă\x0001\x0000burrowed\xfffeits way under the ground!
-The wild\xf000Ă\x0001\x0000burrowed\xfffeits way under the ground!
-The foe's\xf000Ă\x0001\x0000burrowed\xfffeits way under the ground!
-\xf000Ă\x0001\x0000vanished\xfffeinstantly!
-The wild\xf000Ă\x0001\x0000vanished\xfffeinstantly!
-The foe's\xf000Ă\x0001\x0000vanished\xfffeinstantly!
-\xf000Ă\x0001\x0000sprang up!
-The wild\xf000Ă\x0001\x0000sprang up!
-The foe's\xf000Ă\x0001\x0000sprang up!
-\xf000Ă\x0001\x0000whipped\xfffeup a whirlwind!
-The wild\xf000Ă\x0001\x0000whipped\xfffeup a whirlwind!
-The foe's\xf000Ă\x0001\x0000whipped\xfffeup a whirlwind!
-\xf000Ă\x0001\x0000became\xfffecloaked in a harsh light!
-The wild\xf000Ă\x0001\x0000became\xfffecloaked in a harsh light!
-The foe's\xf000Ă\x0001\x0000became\xfffecloaked in a harsh light!
-\xf000Ă\x0001\x0000absorbed\xfffelight!
-The wild\xf000Ă\x0001\x0000absorbed\xfffelight!
-The foe's\xf000Ă\x0001\x0000absorbed\xfffelight!
-\xf000Ă\x0001\x0000tucked in\xfffeits head!
-The wild\xf000Ă\x0001\x0000tucked in\xfffeits head!
-The foe's\xf000Ă\x0001\x0000tucked in\xfffeits head!
-\xf000Ă\x0001\x0000received\xfffean encore!
-The wild\xf000Ă\x0001\x0000received\xfffean encore!
-The foe's\xf000Ă\x0001\x0000received\xfffean encore!
-\xf000Ă\x0001\x0000's encore\xfffeended!
-The wild\xf000Ă\x0001\x0000's encore\xfffeended!
-The foe's\xf000Ă\x0001\x0000's encore\xfffeended!
-\xf000Ă\x0001\x0000's Ability\xfffewas suppressed!
-The wild\xf000Ă\x0001\x0000's Ability\xfffewas suppressed!
-The foe's\xf000Ă\x0001\x0000's Ability\xfffewas suppressed!
-\xf000Ă\x0001\x0000fell for\xfffethe taunt!
-The wild\xf000Ă\x0001\x0000fell for\xfffethe taunt!
-The foe's\xf000Ă\x0001\x0000fell for\xfffethe taunt!
-\xf000Ă\x0001\x0000can't use\xfffe\xf000ć\x0001\x0001 after the taunt!
-The wild\xf000Ă\x0001\x0000can't use\xfffe\xf000ć\x0001\x0001 after the taunt!
-The foe's\xf000Ă\x0001\x0000can't use\xfffe\xf000ć\x0001\x0001 after the taunt!
-\xf000Ă\x0001\x0000's taunt\xfffewore off!
-The wild\xf000Ă\x0001\x0000's taunt\xfffewore off!
-The foe's\xf000Ă\x0001\x0000's taunt\xfffewore off!
-\xf000Ă\x0001\x0000was subjected\xfffeto torment!
-The wild\xf000Ă\x0001\x0000was subjected\xfffeto torment!
-The foe's\xf000Ă\x0001\x0000was subjected\xfffeto torment!
-\xf000Ă\x0001\x0000can't use the same move\xfffetwice in a row due to the torment!
-The wild\xf000Ă\x0001\x0000can't use the same move\xfffetwice in a row due to the torment!
-The foe's\xf000Ă\x0001\x0000can't use the\xfffesame move twice in a row due to the torment!
-\xf000Ă\x0001\x0000's torment\xfffewore off!
-The wild\xf000Ă\x0001\x0000's torment\xfffewore off!
-The foe's\xf000Ă\x0001\x0000's torment\xfffewore off!
-\xf000Ă\x0001\x0000sealed the\xfffeopponent's move(s)!
-The wild\xf000Ă\x0001\x0000sealed the\xfffeopponent's move(s)!
-The foe's\xf000Ă\x0001\x0000sealed the\xfffeopponent's move(s)!
-\xf000Ă\x0001\x0000can't use\xfffethe sealed \xf000ć\x0001\x0001!
-The wild\xf000Ă\x0001\x0000can't use\xfffethe sealed \xf000ć\x0001\x0001!
-The foe's\xf000Ă\x0001\x0000can't use\xfffethe sealed \xf000ć\x0001\x0001!
-\xf000Ă\x0001\x0000's \xf000ć\x0001\x0001\xfffewas disabled!
-The wild\xf000Ă\x0001\x0000's\xfffe\xf000ć\x0001\x0001 was disabled!
-The foe's\xf000Ă\x0001\x0000's\xfffe\xf000ć\x0001\x0001 was disabled!
-\xf000Ă\x0001\x0000's \xf000ć\x0001\x0001\xfffeis disabled!
-The wild\xf000Ă\x0001\x0000's\xfffe\xf000ć\x0001\x0001 is disabled!
-The foe's\xf000Ă\x0001\x0000's\xfffe\xf000ć\x0001\x0001 is disabled!
-\xf000Ă\x0001\x0000is no\xfffelonger disabled!
-The wild\xf000Ă\x0001\x0000is no\xfffelonger disabled!
-The foe's\xf000Ă\x0001\x0000is no\xfffelonger disabled!
+O\xf000Ă\x0001\x0000está a irradiar\xfffeuma aura em explosão!
+O\xf000Ă\x0001\x0000selvagem está a irradiar\xfffeuma aura em explosão!
+O\xf000Ă\x0001\x0000inimigo está a irradiar\xfffeuma aura em explosão!
+O\xf000Ă\x0001\x0000está a irradiar\xfffeuma aura em explosão!
+O\xf000Ă\x0001\x0000selvagem está a irradiar\xfffeuma aura em explosão!
+O\xf000Ă\x0001\x0000inimigo está a irradiar\xfffeuma aura em explosão!
+O\xf000Ă\x0001\x0000trocou\xfffeHabilidades com o seu alvo!
+O\xf000Ă\x0001\x0000selvagem trocou\xfffeHabilidades com o seu alvo!
+O\xf000Ă\x0001\x0000inimigo trocou\xfffeHabilidades com o seu alvo!
+O\xf000Ă\x0001\x0000fortaleceu-se!
+O\xf000Ă\x0001\x0000selvagem fortaleceu-se!
+O\xf000Ă\x0001\x0000inimigo fortaleceu-se!
+O\xf000Ă\x0001\x0000aguentou\xfffeo golpe!
+O\xf000Ă\x0001\x0000selvagem aguentou\xfffeo golpe!
+O\xf000Ă\x0001\x0000inimigo aguentou\xfffeo golpe!
+O\xf000Ă\x0001\x0000protegeu-se\xfffea si próprio!
+O\xf000Ă\x0001\x0000selvagem protegeu-se\xfffea si próprio!
+O\xf000Ă\x0001\x0000inimigo protegeu-se\xfffea si próprio!
+Rompeu a protecção do\xfffe\xf000Ă\x0001\x0000!
+Rompeu a protecção do\xfffe\xf000Ă\x0001\x0000selvagem!
+Rompeu a protecção do\xfffe\xf000Ă\x0001\x0000inimigo!
+O\xf000Ă\x0001\x0000\xfffeprotegeu-se a si próprio!
+O\xf000Ă\x0001\x0000selvagem\xfffeprotegeu-se a si próprio!
+O\xf000Ă\x0001\x0000inimigo\xfffeprotegeu-se a si próprio!
+O\xf000Ă\x0001\x0000foi enganado\xfffepela simulação!
+O\xf000Ă\x0001\x0000selvagem\xfffefoi enganado pela simulação!
+O\xf000Ă\x0001\x0000inimigo\xfffefoi enganado pela simulação!
+O\xf000Ă\x0001\x0000\xfffevoou alto!
+O\xf000Ă\x0001\x0000selvagem\xfffevoou alto!
+O\xf000Ă\x0001\x0000inimigo\xfffevoou alto!
+A raiva do\xf000Ă\x0001\x0000\xfffeestá a crescer!
+A raiva do\xf000Ă\x0001\x0000selvagem\xfffeestá a crescer!
+A raiva do\xf000Ă\x0001\x0000inimigo\xfffeestá a crescer!
+O\xf000Ă\x0001\x0000escondeu-se\xfffedebaixo de água!
+O\xf000Ă\x0001\x0000selvagem\xfffeescondeu-se debaixo de água!
+O\xf000Ă\x0001\x0000inimigo\xfffeescondeu-se debaixo de água!
+O\xf000Ă\x0001\x0000\xfffecavou debaixo de terra!
+O\xf000Ă\x0001\x0000selvagem\xfffecavou debaixo de terra!
+O\xf000Ă\x0001\x0000inimigo\xfffecavou debaixo de terra!
+O\xf000Ă\x0001\x0000\xfffedesapareceu num instante!
+O\xf000Ă\x0001\x0000selvagem\xfffedesapareceu num instante!
+O\xf000Ă\x0001\x0000inimigo\xfffedesapareceu num instante!
+O\xf000Ă\x0001\x0000\xfffefez um salto para o ar!
+O\xf000Ă\x0001\x0000selvagem\xfffefez um salto para o ar!
+O\xf000Ă\x0001\x0000selvagem\xfffefez um salto para o ar!
+O\xf000Ă\x0001\x0000\xfffechicoteou um remoinho!
+O\xf000Ă\x0001\x0000selvagem\xfffechicoteou um remoinho!
+O\xf000Ă\x0001\x0000inimigo\xfffechicoteou um remoinho!
+O\xf000Ă\x0001\x0000foi coberto\xfffepor uma luz áspera!
+O\xf000Ă\x0001\x0000selvagem foi coberto\xfffepor uma luz áspera!
+O\xf000Ă\x0001\x0000inimigo foi coberto\xfffepor uma luz áspera!
+O\xf000Ă\x0001\x0000absorveu\xfffeluz!
+O\xf000Ă\x0001\x0000selvagem\xfffeabsorveu luz!
+O\xf000Ă\x0001\x0000inimigo\xfffeabsorveu luz!
+O\xf000Ă\x0001\x0000\xfffeescondeu-se na sua cabeça!
+O\xf000Ă\x0001\x0000 selvagem\xfffeescondeu-se na sua cabeça!
+O\xf000Ă\x0001\x0000 inimigo\xfffeescondeu-se na sua cabeça!
+O\xf000Ă\x0001\x0000\xfffelevou um bis!
+O\xf000Ă\x0001\x0000selvagem\xfffelevou um bis!
+O\xf000Ă\x0001\x0000inimigo\xfffelevou um bis!
+O bis do\xf000Ă\x0001\x0000\xfffeacabou!
+O bis do\xf000Ă\x0001\x0000selvagem\xfffeacabou!
+O bis do\xf000Ă\x0001\x0000inimigo\xfffeacabou!
+A Habilidade do\xf000Ă\x0001\x0000\xfffefoi suprimida!
+A Habilidade do\xf000Ă\x0001\x0000selvagem\xfffefoi suprimida!
+A Habilidade do\xf000Ă\x0001\x0000inimigo\xfffefoi suprimida!
+O\xf000Ă\x0001\x0000caiu\xfffena provocação!
+O\xf000Ă\x0001\x0000selvagem\xfffecaiu na provocação!
+O\xf000Ă\x0001\x0000inimigo\xfffecaiu na provocação!
+O\xf000Ă\x0001\x0000não pode usar o\xfffe\xf000ć\x0001\x0001depois da provocação!
+O\xf000Ă\x0001\x0000selvagem não pode\xfffeusar o \xf000ć\x0001\x0001depois da provocação!
+O\xf000Ă\x0001\x0000inimigo não pode\xfffeusar o \xf000ć\x0001\x0001depois da provocação!
+A provocação do\xf000Ă\x0001\x0000\xfffepassou!
+A provocação do\xf000Ă\x0001\x0000selvagem\xfffepassou!
+A provocação do\xf000Ă\x0001\x0000inimigo\xfffepassou!
+O\xf000Ă\x0001\x0000foi submetido\xfffea um suplício!
+O\xf000Ă\x0001\x0000selvagem\xfffefoi submetido a um suplício!
+O\xf000Ă\x0001\x0000inimigo\xfffefoi submetido a um suplício!
+O\xf000Ă\x0001\x0000\xfffenão pode usar o mesmo ataque\xfffeduas vezes seguidas devido ao suplício!
+O\xf000Ă\x0001\x0000selvagem\xfffenão pode usar o mesmo ataque\xfffeduas vezes seguidas devido ao suplício!
+O\xf000Ă\x0001\x0000inimigo\xfffenão pode usar o mesmo ataque\xfffeduas vezes seguidas devido ao suplício!
+O suplício do\xf000Ă\x0001\x0000\xfffepassou!
+O suplício do\xf000Ă\x0001\x0000selvagem\xfffepassou!
+O suplício do\xf000Ă\x0001\x0000inimigo\xfffepassou!
+O\xf000Ă\x0001\x0000\xfffeselou o(s) ataque(s) do adversário!
+O\xf000Ă\x0001\x0000\xfffeselvagem selou o(s) ataque(s) do adversário!
+O\xf000Ă\x0001\x0000\xfffeinimigo selou o(s) ataque(s) do adversário!
+O\xf000Ă\x0001\x0000não pode usar\xfffeo\xf000ć\x0001\x0001selado!
+O\xf000Ă\x0001\x0000selvagem não pode usar\xfffeo\xf000ć\x0001\x0001selado!
+O\xf000Ă\x0001\x0000inimigo não pode usar\xfffeo\xf000ć\x0001\x0001selado!
+O\xf000ć\x0001\x0001do\xf000Ă\x0001\x0000\xfffefoi desactivado!
+O\xf000ć\x0001\x0001do\xf000Ă\x0001\x0000selvagem\xfffefoi desactivado!
+O\xf000ć\x0001\x0001do\xf000Ă\x0001\x0000inimigo\xfffefoi desactivado!
+O\xf000ć\x0001\x0001do\xf000Ă\x0001\x0000\xfffefoi desactivado!
+O\xf000ć\x0001\x0001do\xf000Ă\x0001\x0000selvagem\xfffefoi desactivado!
+O\xf000ć\x0001\x0001do\xf000Ă\x0001\x0000inimigo\xfffefoi desactivado!
+O\xf000Ă\x0001\x0000já não está\xfffeincapacitado!
+O\xf000Ă\x0001\x0000selvagem já não está\xfffeincapacitado!
+O\xf000Ă\x0001\x0000inimigo já não está\xfffeincapacitado!
 \xf000Ă\x0001\x0000surrounded\xfffeitself with a veil of water!
 The wild\xf000Ă\x0001\x0000surrounded\xfffeitself with a veil of water!
 The foe's\xf000Ă\x0001\x0000surrounded\xfffeitself with a veil of water!
