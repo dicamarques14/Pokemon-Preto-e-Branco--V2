@@ -798,84 +798,84 @@ O substituto do\xf000Ă\x0001\x0000inimigo\xfffedesbotou!
 O Wide Guard protegeu o\xfffe\xf000Ă\x0001\x0000!
 O Wide Guard protegeu o\xfffe\xf000Ă\x0001\x0000selvagem!
 O Wide Guard protegeu o\xfffe\xf000Ă\x0001\x0000inimigo!
-Quick Guard protected\xfffe\xf000Ă\x0001\x0000!
-Quick Guard protected\xfffethe wild\xf000Ă\x0001\x0000!
-Quick Guard protected\xfffethe foe's\xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0000was squeezed\xfffeby \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000was squeezed\xfffeby the wild \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000was squeezed\xfffeby the foe's \xf000Ă\x0001\x0001!
-The wild\xf000Ă\x0001\x0000was squeezed\xfffeby \xf000Ă\x0001\x0001!
-The wild\xf000Ă\x0001\x0000was squeezed\xfffeby the wild \xf000Ă\x0001\x0001!
-The foe's\xf000Ă\x0001\x0000was squeezed\xfffeby \xf000Ă\x0001\x0001!
-The foe's\xf000Ă\x0001\x0000was squeezed\xfffeby the foe's \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000was wrapped by\xfffe\xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000was wrapped\xfffeby the wild \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000was wrapped\xfffeby the foe's \xf000Ă\x0001\x0001!
-The wild\xf000Ă\x0001\x0000was wrapped by\xfffe\xf000Ă\x0001\x0001!
-The wild\xf000Ă\x0001\x0000was wrapped\xfffeby the wild \xf000Ă\x0001\x0001!
-The foe's\xf000Ă\x0001\x0000was wrapped\xfffeby \xf000Ă\x0001\x0001!
-The foe's\xf000Ă\x0001\x0000was wrapped\xfffeby the foe's \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0001 clamped\xfffe\xf000Ă\x0001\x0000!
-The wild \xf000Ă\x0001\x0001 clamped\xfffe\xf000Ă\x0001\x0000!
-The foe's \xf000Ă\x0001\x0001 clamped\xfffe\xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0001 clamped\xfffethe wild\xf000Ă\x0001\x0000!
-The wild \xf000Ă\x0001\x0001 clamped\xfffethe wild\xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0001 clamped\xfffethe foe's\xf000Ă\x0001\x0000!
-The foe's \xf000Ă\x0001\x0001 clamped\xfffethe foe's\xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0000became trapped\xfffein the vortex!
-The wild\xf000Ă\x0001\x0000became trapped\xfffein the vortex!
-The foe's\xf000Ă\x0001\x0000became trapped\xfffein the vortex!
-\xf000Ă\x0001\x0000became trapped\xfffein the fiery vortex!
-The wild\xf000Ă\x0001\x0000became trapped\xfffein the fiery vortex!
-The foe's\xf000Ă\x0001\x0000became trapped\xfffein the fiery vortex!
-\xf000Ă\x0001\x0000became\xfffetrapped by swirling magma!
-The wild\xf000Ă\x0001\x0000became\xfffetrapped by swirling magma!
-The foe's\xf000Ă\x0001\x0000became\xfffetrapped by swirling magma!
-\xf000Ă\x0001\x0000became trapped\xfffeby Sand Tomb!
-The wild\xf000Ă\x0001\x0000became trapped\xfffeby Sand Tomb!
-The foe's\xf000Ă\x0001\x0000became trapped\xfffeby Sand Tomb!
-\xf000Ă\x0001\x0000has no\xfffemoves left!
-The wild\xf000Ă\x0001\x0000has no\xfffemoves left!
-The foe's\xf000Ă\x0001\x0000has no\xfffemoves left!
-\xf000Ă\x0001\x0000is protected\xfffeby Safeguard!
-The wild\xf000Ă\x0001\x0000is protected\xfffeby Safeguard!
-The foe's\xf000Ă\x0001\x0000is protected\xfffeby Safeguard!
-\xf000Ă\x0001\x0000is protected\xfffeby the mist!
-The wild\xf000Ă\x0001\x0000is protected\xfffeby the mist!
-The foe's\xf000Ă\x0001\x0000is protected\xfffeby the mist!
-\xf000Ă\x0001\x0000was\xfffedragged out!
-The wild\xf000Ă\x0001\x0000was\xfffedragged out!
-The foe's\xf000Ă\x0001\x0000was\xfffedragged out!
-\xf000Ă\x0001\x0000must\xffferecharge!
-The wild\xf000Ă\x0001\x0000must\xffferecharge!
-The foe's\xf000Ă\x0001\x0000must\xffferecharge!
-\xf000Ă\x0001\x0000is hurt\xfffeby the spikes!
-The wild\xf000Ă\x0001\x0000is hurt\xfffeby the spikes!
-The foe's\xf000Ă\x0001\x0000is hurt\xfffeby the spikes!
-Pointed stones dug into\xfffe\xf000Ă\x0001\x0000!
-Pointed stones dug into\xfffethe wild\xf000Ă\x0001\x0000!
-Pointed stones dug into\xfffethe foe's\xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0000twisted\xfffethe dimensions!
-The wild\xf000Ă\x0001\x0000twisted\xfffethe dimensions!
-The foe's\xf000Ă\x0001\x0000twisted\xfffethe dimensions!
-\xf000Ă\x0001\x0000's perish count\xfffefell to \xf000Ȁ\x0001\x0001!
-The wild\xf000Ă\x0001\x0000's perish count\xfffefell to \xf000Ȁ\x0001\x0001!
-The foe's\xf000Ă\x0001\x0000's perish count\xfffefell to \xf000Ȁ\x0001\x0001!
-\xf000Ă\x0001\x0000became cloaked\xfffein a freezing light!
-The wild\xf000Ă\x0001\x0000became cloaked\xfffein a freezing light!
-The foe's\xf000Ă\x0001\x0000became cloaked\xfffein a freezing light!
-\xf000Ă\x0001\x0000became cloaked\xfffein freezing air!
-The wild\xf000Ă\x0001\x0000became cloaked\xfffein freezing air!
-The foe's\xf000Ă\x0001\x0000became cloaked\xfffein freezing air!
-\xf000Ă\x0001\x0000prevents\xfffeescape with \xf000Ć\x0001\x0001!
-The wild\xf000Ă\x0001\x0000prevents\xfffeescape with \xf000Ć\x0001\x0001!
-The foe's\xf000Ă\x0001\x0000prevents\xfffeescape with \xf000Ć\x0001\x0001!
-\xf000Ă\x0001\x0000can no\xfffelonger escape!
-The wild\xf000Ă\x0001\x0000can no\xfffelonger escape!
-The foe's\xf000Ă\x0001\x0000can no\xfffelonger escape!
-\xf000Ă\x0001\x0000\xfffecan't escape!
-The wild\xf000Ă\x0001\x0000\xfffecan't escape!
-The foe's\xf000Ă\x0001\x0000\xfffecan't escape!
+O Quick Guard protegeu o\xfffe\xf000Ă\x0001\x0000!
+O Quick Guard protegeu o\xfffe\xf000Ă\x0001\x0000selvagem!
+O Quick Guard protegeu o\xfffe\xf000Ă\x0001\x0000inimigo!
+O\xf000Ă\x0001\x0000foi espremido\xfffepelo\xf000Ă\x0001\x0001!
+O\xf000Ă\x0001\x0000foi espremido\xfffepelo\xf000Ă\x0001\x0001selvagem!
+O\xf000Ă\x0001\x0000foi espremido\xfffepelo\xf000Ă\x0001\x0001inimigo!
+O\xf000Ă\x0001\x0000selvagem foi espremido\xfffepelo\xf000Ă\x0001\x0001!
+O\xf000Ă\x0001\x0000selvagem foi espremido\xfffepelo\xf000Ă\x0001\x0001selvagem!
+O\xf000Ă\x0001\x0000inimigo foi espremido\xfffepelo\xf000Ă\x0001\x0001!
+O\xf000Ă\x0001\x0000inimigo foi espremido\xfffepelo\xf000Ă\x0001\x0001inimigo!
+O\xf000Ă\x0001\x0000foi envolvido pelo\xfffe\xf000Ă\x0001\x0001!
+O\xf000Ă\x0001\x0000foi envolvido pelo\xfffe\xf000Ă\x0001\x0001selvagem!
+O\xf000Ă\x0001\x0000foi envolvido pelo\xfffe\xf000Ă\x0001\x0001inimigo!
+O\xf000Ă\x0001\x0000selvagem foi envolvido pelo\xfffe\xf000Ă\x0001\x0001!
+O\xf000Ă\x0001\x0000selvagem foi envolvido pelo\xfffe\xf000Ă\x0001\x0001selvagem!
+O\xf000Ă\x0001\x0000inimigo foi envolvido\xfffepelo\xf000Ă\x0001\x0001!
+O\xf000Ă\x0001\x0000inimigo foi envolvido\xfffepelo\xf000Ă\x0001\x0001inimigo!
+O\xf000Ă\x0001\x0001prendeu o\xfffe\xf000Ă\x0001\x0000!
+O\xf000Ă\x0001\x0001selvagem\xfffeprendeu o\xf000Ă\x0001\x0000!
+O\xf000Ă\x0001\x0001inimigo\xfffeprendeu o\xf000Ă\x0001\x0000!
+O\xf000Ă\x0001\x0001prendeu\xfffeo\xf000Ă\x0001\x0000selvagem!
+O\xf000Ă\x0001\x0001selvagem prendeu\xfffeo\xf000Ă\x0001\x0000selvagem!
+O\xf000Ă\x0001\x0001prendeu\xfffeo\xf000Ă\x0001\x0000inimigo!
+O\xf000Ă\x0001\x0001inimigo prendeu\xfffeo\xf000Ă\x0001\x0000inimigo!
+O\xf000Ă\x0001\x0000ficou preso\xfffeno vórtice!
+O\xf000Ă\x0001\x0000selvagem ficou preso\xfffeno vórtice!
+O\xf000Ă\x0001\x0000inimigo ficou preso\xfffeno vórtice!
+O\xf000Ă\x0001\x0000ficou preso\xfffeno vórtice ardente!
+O\xf000Ă\x0001\x0000selvagem ficou preso\xfffeno vórtice ardente!
+O\xf000Ă\x0001\x0000inimigo ficou preso\xfffeno vórtice ardente!
+O\xf000Ă\x0001\x0000ficou preso\xfffepela magma turbilhante!
+O\xf000Ă\x0001\x0000selvagem ficou preso\xfffepela magma turbilhante!
+O\xf000Ă\x0001\x0000inimigo ficou preso\xfffepela magma turbilhante!
+O\xf000Ă\x0001\x0000ficou preso\xfffepelo Sand Tomb!
+O\xf000Ă\x0001\x0000selvagem ficou preso\xfffepelo Sand Tomb!
+O\xf000Ă\x0001\x0000inimigo ficou preso\xfffepelo Sand Tomb!
+O\xf000Ă\x0001\x0000não tem\xfffemais ataques!
+O\xf000Ă\x0001\x0000selvagem\xfffenão tem mais ataques!
+O\xf000Ă\x0001\x0000inimigo\xfffenão tem mais ataques!
+O\xf000Ă\x0001\x0000está protegido\xfffepelo Safeguard!
+O\xf000Ă\x0001\x0000selvagem está protegido\xfffepelo Safeguard!
+O\xf000Ă\x0001\x0000inimigo está protegido\xfffepelo Safeguard!
+O\xf000Ă\x0001\x0000está protegido\xfffepela neblina!
+O\xf000Ă\x0001\x0000selvagem\xfffeestá protegido pela neblina!
+O\xf000Ă\x0001\x0000inimigo\xfffeestá protegido pela neblina!
+O\xf000Ă\x0001\x0000foi\xfffearrastado!
+O\xf000Ă\x0001\x0000selvagem\xfffefoi arrastado!
+O\xf000Ă\x0001\x0000inimigo\xfffefoi arrastado!
+O\xf000Ă\x0001\x0000precisa de\xfffrecarregar!
+O\xf000Ă\x0001\x0000selvagem\xfffeprecisa de recarregar!
+O\xf000Ă\x0001\x0000inimigo\xfffeprecisa de recarregar!
+O\xf000Ă\x0001\x0000está magoado\xfffepelos espigões!
+O\xf000Ă\x0001\x0000selvagem\xfffeestá magoado pelos espigões!
+O\xf000Ă\x0001\x0000inimigo\xfffeestá magoado pelos espigões!
+Pedras pontiagudas cavaram no\xfffe\xf000Ă\x0001\x0000!
+Pedras pontiagudas cavaram no\xfffe\xf000Ă\x0001\x0000selvagem!
+Pedras pontiagudas cavaram no\xfffe\xf000Ă\x0001\x0000inimigo!
+O\xf000Ă\x0001\x0000torceu\xfffeas dimensões!
+O\xf000Ă\x0001\x0000selvagem\xfffetorceu as dimensões!
+O\xf000Ă\x0001\x0000inimigo\xfffetorceu as dimensões!
+A contagem de mortes do\xf000Ă\x0001\x0000\xfffecaiu para\xf000Ȁ\x0001\x0001!
+A contagem de mortes\xfffedo\xf000Ă\x0001\x0000selvagem\xfffecaiu para\xf000Ȁ\x0001\x0001!
+A contagem de mortes\xfffedo\xf000Ă\x0001\x0000inimigo\xfffecaiu para\xf000Ȁ\x0001\x0001!
+O\xf000Ă\x0001\x0000ficou coberto\xfffede uma luz gélida!
+O\xf000Ă\x0001\x0000selvagem ficou coberto\xfffede uma luz gélida!
+O\xf000Ă\x0001\x0000inimigo ficou coberto\xfffede uma luz gélida!
+O\xf000Ă\x0001\x0000ficou coberto\xfffepor um ar gélido!
+O\xf000Ă\x0001\x0000selvagem ficou coberto\xfffepor um ar gélido!
+O\xf000Ă\x0001\x0000inimigo ficou coberto\xfffepor um ar gélido!
+O\xf000Ă\x0001\x0000preveniu\xfffea fuga com o\xf000Ć\x0001\x0001!
+O\xf000Ă\x0001\x0000selvagem preveniu\xfffea fuga com o\xf000Ć\x0001\x0001!
+O\xf000Ă\x0001\x0000inimigo preveniu\xfffea fuga com o\xf000Ć\x0001\x0001!
+O\xf000Ă\x0001\x0000já não\xfffepode escapar!
+O\xf000Ă\x0001\x0000selvagem\xfffejá não pode escapar!
+O\xf000Ă\x0001\x0000inimigo\xfffejá não pode escapar!
+O\xf000Ă\x0001\x0000\xfffenão pode escapar!
+O\xf000Ă\x0001\x0000selvagem\xfffenão pode escapar!
+O\xf000Ă\x0001\x0000inimigo\xfffenão pode escapar!
 
 
 
