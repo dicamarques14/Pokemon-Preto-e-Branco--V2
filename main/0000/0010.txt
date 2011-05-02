@@ -1,8 +1,8 @@
-O \xf000Ă\x0001\x0000 foi escolhido.
+O\xf000Ă\x0001\x0000foi escolhido.
 
 Libertar este Pokémon?
-O \xf000Ă\x0001\x0000 foi libertado.
-Tchau, \xf000Ă\x0001\x0000!
+O\xf000Ă\x0001\x0000foi libertado.
+Tchau,\xf000Ă\x0001\x0000!
 A tua equipa está cheia!
 Esse é o teu último Pokémon!
 O que queres fazer?
@@ -12,22 +12,22 @@ Selecciona a imagem de fundo.
 Continuar as operações da Caixa?
 A Caixa está cheia.
 A Mochila está cheia.
-Levaste o \xf000ĉ\x0001\x0000.
-\xf000ĉ\x0001\x0000 está a ser usado.
+Levaste o\xf000ĉ\x0001\x0000.
+O\xf000ĉ\x0001\x0000está a ser usado.
 Qual irás levar?
 Colocar em que Caixa?
 
 
 
-Leva este \xf000ĉ\x0001\x0000?
+Leva este\xf000ĉ\x0001\x0000?
 O Correio não pode ser levado.
-O \xf000ĉ\x0001\x0000 foi escolhido.
-Pôr de lado o \xf000ĉ\x0001\x0000?
-Colocaste o \xf000ĉ\x0001\x0000 na Mochila.
+O\xf000ĉ\x0001\x0000foi escolhido.
+Pôr de lado o\xf000ĉ\x0001\x0000?
+Colocaste o\xf000ĉ\x0001\x0000na Mochila.
 Consegue segurar um Item.
 Por favor, elimina o Correio.
 Não podes libertar um Ovo.
-O \xf000Ă\x0001\x0000 voltou!
+O\xf000Ă\x0001\x0000voltou!
 Será que esteve preocupado contigo?
 Um Ovo não pode segurar um item.
 Tocar a Indicação!
@@ -42,13 +42,13 @@ MOVER ITEMS
 CAIXA DE BATALHA
 ESCOLHER UM POKÉMON SONOLENTO
 O Correio não pode ser movido!
-Não suporta o \xf000ĉ\x0001\x0000!
+Não suporta o\xf000ĉ\x0001\x0000!
 Tem Correio!
 Já não tens Pokémon com que lutar!
 O Correio não pode ser movido!
 Não suporta Correio aqui.
 Os Ovos não podem ser escolhidos!
-O \xf000Ă\x0001\x0000 será metido para dentro.\xfffeOK?
+O\xf000Ă\x0001\x0000será metido para dentro.\xfffeOK?
 Este Pokémon não parece sonolento\xfffeneste momento.
 Escolher outro Pokémon?
 A tua Caixa de Batalha está fechada.\xfffeNão podes mover os teus Pokémon.
