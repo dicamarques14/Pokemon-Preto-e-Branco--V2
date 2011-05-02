@@ -1,14 +1,14 @@
-\xf000ȁ\x0001\x0000 pessoas
-Total: \xf000Ȅ\x0001\x0000 
+\xf000ȁ\x0001\x0000pessoas
+Total:\xf000Ȅ\x0001\x0000 
 Vais agradecer a quem?
-Agradeceste \xf000Ā\x0001\x0000!
-Vais usar o \xf000đ\x0001\x0001?\xfffePrecisas de \xf000Ȃ\x0001\x0002 / tens \xf000Ȃ\x0001\x0003
-Usar o \xf000đ\x0001\x0001\xfffeque o \xf000Ā\x0001\x0000 activou?
+Agradeceste\xf000Ā\x0001\x0000!
+Vais usar o\xf000đ\x0001\x0001?\xfffePrecisas de\xf000Ȃ\x0001\x0002 / tens\xf000Ȃ\x0001\x0003.
+Usar o\xf000đ\x0001\x0001\xfffeque o\xf000Ā\x0001\x0000activou?
 Foi activado o Special Pass Power!\xfffeQueres usar o\xfffe\xf000đ\x0001\x0001?
-Usaste \xf000đ\x0001\x0001!
-Não tens Pass Orbs suficientes\xfffepara usar o Pass Power. Precisas de\xfffe\xf000Ȃ\x0001\x0002 / tens \xf000Ȃ\x0001\x0003
-A usar o \xf000đ\x0001\x0001.\xfffeFaltam \xf000ȁ\x0001\x0005 segundos.
-A usar o \xf000đ\x0001\x0001.\xfffeFaltam: \xf000Ȃ\x0001\x0004 min., \xf000ȁ\x0001\x0005 seg.
+Usaste o\xf000đ\x0001\x0001!
+Não tens Pass Orbs suficientes\xfffepara usar o Pass Power. Precisas de\xfffe\xf000Ȃ\x0001\x0002 / tens\xf000Ȃ\x0001\x0003.
+A usar o\xf000đ\x0001\x0001.\xfffeFaltam\xf000ȁ\x0001\x0005segundos.
+A usar o\xf000đ\x0001\x0001.\xfffeFaltam:\xf000Ȃ\x0001\x0004min.,\xf000ȁ\x0001\x0005segundos.
 Disse “\xf000Ĝ\x0001\x0000!"
 VERIFICAR
 SIM
@@ -16,53 +16,53 @@ NÃO
 VERIFICAR
 FECHAR
 Kiaa!
-\xf000Ā\x0001\x0000 está por perto.
-O(A) \xf000Ā\x0001\x0000 começou a combater\xfffecom um \xf000ā\x0001\x0001 selvagem!
-O(A) \xf000Ā\x0001\x0000 venceu a batalha\xfffecom um \xf000ā\x0001\x0001 selvagem!
-O(A) \xf000Ā\x0001\x0000 começou a combater\xfffecom um Pokémon especial!
-O(A) \xf000Ā\x0001\x0000 venceu a batalha\xfffecom um Pokémon especial!
-O(A) \xf000Ā\x0001\x0000 começou a combater o\xfffe\xf000Ď\x0001\x0001 \xf000Ā\x0001\x0002!
-O(A) \xf000Ā\x0001\x0000 venceu a batalha com o\xfffe\xf000Ď\x0001\x0001 \xf000Ā\x0001\x0002!
-O(A) \xf000Ā\x0001\x0000 começou a combater\xfffecom um Líder de Ginásio!
-O(A) \xf000Ā\x0001\x0000 venceu a batalha\xfffecom um Líder de Ginásio!
-O(A) \xf000Ā\x0001\x0000 começou a combater\xfffecom um Treinador especial!
-O(A) \xf000Ā\x0001\x0000 venceu a batalha\xfffecom um Treinador especial!
-O(A) \xf000Ā\x0001\x0000 começou a combater\xfffecom um Treinador especial!
-O(A) \xf000Ā\x0001\x0000 venceu a batalha\xfffecom um Treinador especial!
-O(A) \xf000Ā\x0001\x0000 apanhou um\xfffe\xf000ā\x0001\x0001 selvagem!
-O(A) \xf000Ā\x0001\x0000 apanhou\xfffeum Pokémon especial!
-O nível do \xf000Ă\x0001\x0002 do(a) \xf000Ā\x0001\x0000\xfffesubiu!
-O \xf000Ă\x0001\x0002 do(a) \xf000Ā\x0001\x0000\xfffeevoluiu\xfffepara \xf000ā\x0001\x0001!
+\xf000Ā\x0001\x0000está por perto.
+O\xf000Ā\x0001\x0000começou a combater\xfffecom um\xf000ā\x0001\x0001selvagem!
+O\xf000Ā\x0001\x0000venceu a batalha\xfffecom um\xf000ā\x0001\x0001selvagem!
+O\xf000Ā\x0001\x0000começou a batalhar\xfffecom um Pokémon especial!
+O\xf000Ā\x0001\x0000venceu a batalha\xfffecom um Pokémon especial!
+O\xf000Ā\x0001\x0000começou a batalhar o\xfffe\xf000Ď\x0001\x0001\xf000Ā\x0001\x0002!
+O\xf000Ā\x0001\x0000venceu a batalha com o\xfffe\xf000Ď\x0001\x0001\xf000Ā\x0001\x0002!
+O\xf000Ā\x0001\x0000começou a batalhar\xfffecom um Líder de Ginásio!
+O\xf000Ā\x0001\x0000venceu a batalha\xfffecom um Líder de Ginásio!
+O\xf000Ā\x0001\x0000começou a batalhar\xfffecom um Treinador especial!
+O\xf000Ā\x0001\x0000venceu a batalha\xfffecom um Treinador especial!
+O\xf000Ā\x0001\x0000começou a batalhar\xfffecom um Treinador especial!
+O\xf000Ā\x0001\x0000venceu a batalha\xfffecom um Treinador especial!
+O\xf000Ā\x0001\x0000apanhou um\xfffe\xf000ā\x0001\x0001selvagem!
+O\xf000Ā\x0001\x0000apanhou\xfffeum Pokémon especial!
+O nível do \xf000Ă\x0001\x0002 do\xf000Ā\x0001\x0000\xfffesubiu!
+O\xf000Ă\x0001\x0002 doxf000Ā\x0001\x0000\xfffeevoluiu\xfffepara\xf000ā\x0001\x0001!
 Mensagem de Simulação
-O(A) \xf000Ā\x0001\x0000 encontrou um\xfffe\xf000ĉ\x0001\x0001!
-O tempo do jogo do(a) \xf000Ā\x0001\x0000\xfffeexcedeu as \xf000Ȃ\x0001\x0001 horas!
-O(A) \xf000Ā\x0001\x0000 completou o\xfffePokédex!
-O(A) \xf000Ā\x0001\x0000 foi agradecido\xfffemais de \xf000Ȃ\x0001\x0001 vezes!
-O(A) \xf000Ā\x0001\x0000 está na área de\xffferecepção da Sala de União.
-O(A) \xf000Ā\x0001\x0000 agradeceu-te!
-O \xf000ā\x0001\x0001 está neste momento\xfffea agradecer!
-O \xf000ĉ\x0001\x0001 está neste momento\xfffea ser distribuído!
+O\xf000Ā\x0001\x0000 encontrou um\xfffe\xf000ĉ\x0001\x0001!
+O tempo do jogo do\xf000Ā\x0001\x0000\xfffeexcedeu as\xf000Ȃ\x0001\x0001horas!
+O\xf000Ā\x0001\x0000completou o\xfffePokédex!
+O\xf000Ā\x0001\x0000foi agradecido\xfffemais de\xf000Ȃ\x0001\x0001vezes!
+O\xf000Ā\x0001\x0000está na área de\xffferecepção da Sala de União.
+O\xf000Ā\x0001\x0000agradeceu-te!
+O\xf000ā\x0001\x0001está neste momento\xfffea agradecer!
+O\xf000ĉ\x0001\x0001está neste momento\xfffea ser distribuído!
 A Mystery Gift está neste momento\xfffea ser distribuída!
-O ataque do \xf000Ă\x0001\x0002 da\xfffe\xf000Ā\x0001\x0000 foi um golpe crítico!
-O \xf000Ă\x0001\x0002 do(a) \xf000Ā\x0001\x0000 sofreu\xfffeum golpe crítico!
-O(A) \xf000Ā\x0001\x0000 escapou\xfffeda batalha!
-O \xf000Ă\x0001\x0002 do(a) \xf000Ā\x0001\x0000\xfffetem muito poucos PV!
-O \xf000Ă\x0001\x0002 do(a) \xf000Ā\x0001\x0000\xfffetem muito poucos PP!
-O \xf000Ă\x0001\x0002 do(a) \xf000Ā\x0001\x0000\xfffedesmaiou!
-O \xf000Ă\x0001\x0002 do(a) \xf000Ā\x0001\x0000\xfffecondição de estado!
-O(A) \xf000Ā\x0001\x0000 usou um\xfffe\xf000ĉ\x0001\x0001!
-O(A) \xf000Ā\x0001\x0000 usou um\xfffe\xf000ć\x0001\x0001!
-O(A) \xf000Ā\x0001\x0000 recebeu\xfffeum Ovo!
-O(A) \xf000ā\x0001\x0001 saiu do Ovo do(a)\xfffe\xf000Ā\x0001\x0000!\xfffe
-O(A) \xf000Ā\x0001\x0000 está a fazer\xfffecompras.
-O(A) \xf000Ā\x0001\x0000 está num\xfffedesafio de Battle Subway.
-O(A) \xf000Ā\x0001\x0000 tem\xfffe\xf000Ȁ\x0001\x0001 vitórias consecutivas\xfffeem Battle Subway!
-O(A) \xf000Ā\x0001\x0000 ganhou\xfffeum troféu em Battle Subway!
-O(A) \xf000Ā\x0001\x0000 desafiou\xfffea Battle Institute.
-O(A) \xf000Ā\x0001\x0000 foi certificado como\xfffe\xf000Ɓ\x0001\x0001 na\xfffeBattle Institute!
-O(A) \xf000Ā\x0001\x0000 entrou\xfffeem Ferris wheel.
-O(A) \xf000Ā\x0001\x0000 juntou-se\xfffeà Poké Transferência.
-O \xf000Ă\x0001\x0002 do(a) \xf000Ā\x0001\x0000\xfffeestá neste momento\xfffea participar num Concurso Musical.
-O(A) \xf000Ā\x0001\x0000 usou os\xfffe\xf000đ\x0001\x0001 recebidos!
-O(A) \xf000Ā\x0001\x0000 disse\xfffe“\xf000Ĝ\x0001\x0001."
+O ataque do\xf000Ă\x0001\x0002 da\xfffe\xf000Ā\x0001\x0000foi um golpe crítico!
+O\xf000Ă\x0001\x0002do\xf000Ā\x0001\x0000sofreu\xfffeum golpe crítico!
+O\xf000Ā\x0001\x0000escapou\xfffeda batalha!
+O\xf000Ă\x0001\x0002do\xf000Ā\x0001\x0000\xfffetem muito poucos PV!
+O\xf000Ă\x0001\x0002do\xf000Ā\x0001\x0000\xfffetem muito poucos PP!
+O\xf000Ă\x0001\x0002do\xf000Ā\x0001\x0000\xfffedesmaiou!
+O\xf000Ă\x0001\x0002do\xf000Ā\x0001\x0000\xfffecondição de estado!
+O\xf000Ā\x0001\x0000usou um\xfffe\xf000ĉ\x0001\x0001!
+O\xf000Ā\x0001\x0000usou um\xfffe\xf000ć\x0001\x0001!
+O\xf000Ā\x0001\x0000recebeu\xfffeum Ovo!
+O\xf000ā\x0001\x0001saiu do Ovo do\xfffe\xf000Ā\x0001\x0000!\xfffe
+O\xf000Ā\x0001\x0000está a fazer\xfffecompras.
+O\xf000Ā\x0001\x0000está num\xfffedesafio de Battle Subway.
+O\xf000Ā\x0001\x0000tem\xfffe\xf000Ȁ\x0001\x0001vitórias consecutivas\xfffeem Battle Subway!
+O\xf000Ā\x0001\x0000ganhou\xfffeum troféu em Battle Subway!
+O\xf000Ā\x0001\x0000desafiou\xfffea Battle Institute.
+O\xf000Ā\x0001\x0000foi certificado como\xfffe\xf000Ɓ\x0001\x0001na\xfffeBattle Institute!
+O\xf000Ā\x0001\x0000entrou\xfffeem Ferris wheel.
+O\xf000Ā\x0001\x0000juntou-se\xfffeà Poké Transferência.
+O\xf000Ă\x0001\x0002do\xf000Ā\x0001\x0000\xfffeestá neste momento\xfffea participar num Concurso Musical.
+O\xf000Ā\x0001\x0000usou os\xfffe\xf000đ\x0001\x0001recebidos!
+O\xf000Ā\x0001\x0000disse\xfffe“\xf000Ĝ\x0001\x0001."
 Mensagem de Simulação
