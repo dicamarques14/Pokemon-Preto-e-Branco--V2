@@ -17,7 +17,7 @@ VERIFICAR
 FECHAR
 Kiaa!
 \xf000Ā\x0001\x0000está por perto.
-O\xf000Ā\x0001\x0000começou a combater\xfffecom um\xf000ā\x0001\x0001selvagem!
+O\xf000Ā\x0001\x0000começou a batalhar\xfffecom um\xf000ā\x0001\x0001selvagem!
 O\xf000Ā\x0001\x0000venceu a batalha\xfffecom um\xf000ā\x0001\x0001selvagem!
 O\xf000Ā\x0001\x0000começou a batalhar\xfffecom um Pokémon especial!
 O\xf000Ā\x0001\x0000venceu a batalha\xfffecom um Pokémon especial!
