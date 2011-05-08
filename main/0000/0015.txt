@@ -1,103 +1,103 @@
-●●
-A wild \xf000ā\x0001\x0000 appeared!
-Oh! A wild \xf000ā\x0001\x0000 and\xfffe\xf000ā\x0001\x0001 appeared!
-A wild \xf000ā\x0001\x0000 appeared!
-A wild \xf000ā\x0001\x0000 appeared!
-The \xf000ā\x0001\x0000 your Pokémon saw\xfffein the dream appeared!
-\xf000ā\x0001\x0000 appeared!
-You are challenged by\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!\xf000븁\x0000
-You are challenged by\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
-You are challenged by\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 and\xf000븀\x0000\xfffe\xf000Ď\x0001\x0002 \xf000Ā\x0001\x0003!\xf000븁\x0000
-You are challenged by\xfffe\xf000Ā\x0001\x0000 and \xf000Ā\x0001\x0001!\xf000븁\x0000
-Go! \xf000Ă\x0001\x0000!
-Go! \xf000Ă\x0001\x0000 and\xfffe\xf000Ă\x0001\x0001!
-Go! \xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001, and \xf000Ă\x0001\x0002!
-\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 sent\xfffeout \xf000Ă\x0001\x0002!
-\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 sent out\xfffe\xf000Ă\x0001\x0002 and \xf000Ă\x0001\x0003!
-\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 sent out\xfffe\xf000Ă\x0001\x0002, \xf000Ă\x0001\x0003,\xf000븀\x0000\xfffeand \xf000Ă\x0001\x0004!
-\xf000Ā\x0001\x0000 sent out\xfffe\xf000Ă\x0001\x0001!
-\xf000Ā\x0001\x0000 sent out\xfffe\xf000Ă\x0001\x0001 and \xf000Ă\x0001\x0002!
-\xf000Ā\x0001\x0000 sent out\xfffe\xf000Ă\x0001\x0001, \xf000Ă\x0001\x0002,\xf000븀\x0000\xfffeand \xf000Ă\x0001\x0003!
-\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 is\xfffeabout to send in \xf000Ă\x0001\x0002.\xf000븀\x0000\xfffeWill you switch your Pokémon?
-You're in charge, \xf000Ă\x0001\x0000!
-Go for it, \xf000Ă\x0001\x0000!
-Just a little more!\xfffeHang in there, \xf000Ă\x0001\x0000!
-Your foe's weak!\xfffeGet 'em, \xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0000, switch out!\xfffeCome back!
-\xf000Ă\x0001\x0000, come back!
-\xf000Ă\x0001\x0000, enough!\xfffeGet back!
-\xf000Ă\x0001\x0000, OK!\xfffeCome back!
-\xf000Ă\x0001\x0000, good job!\xfffeGet back!
-\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001\xfffewithdrew \xf000Ă\x0001\x0002!
-\xf000Ā\x0001\x0000\xfffewithdrew \xf000Ă\x0001\x0001!
-Hit \xf000Ȁ\x0001\x0000 time(s)!
-\xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.
-\xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.
-\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001\xfffeused one \xf000ĉ\x0001\x0002!
-\xf000Ā\x0001\x0000 launched the \xf000ĉ\x0001\x0002\xfffetoward \xf000Ă\x0001\x0001!
-You cannot use your\xfffeWonder Launcher now!
-\xf000Ā\x0001\x0000's Pokémon\xffferotated to the left!
-\xf000Ā\x0001\x0000's Pokémon\xffferotated to the left!
-\xf000Ā\x0001\x0000's Pokémon\xffferotated to the right!
-\xf000Ā\x0001\x0000's Pokémon\xffferotated to the right!
-\xf000Č\x0001\x0000 gained\xfffe\xf000Ȇ\x0001\x0001 Exp. Points!
-\xf000Č\x0001\x0000 gained a boosted\xfffe\xf000Ȇ\x0001\x0001 Exp. Points!
-Player defeated\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!
-Player beat\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001\xf000븀\x0000\xfffeand \xf000Ď\x0001\x0002 \xf000Ā\x0001\x0003!
-Player lost against\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!
-Player battled to a draw against\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!
-Player defeated\xfffe\xf000Ā\x0001\x0000!
-Player defeated \xf000Ā\x0001\x0000\xfffeand \xf000Ā\x0001\x0001!
-Player lost against\xfffe\xf000Ā\x0001\x0000!
-Player lost to \xf000Ā\x0001\x0000\xfffeand \xf000Ā\x0001\x0001!
-Player battled to a draw against\xfffe\xf000Ā\x0001\x0000!
-Player battled to a draw against\xfffe\xf000Ā\x0001\x0000 and \xf000Ā\x0001\x0001!
-\xf000Ā\x0001\x0000 is out of\xfffeusable Pokémon!\xf000븁\x0000
-\xf000Ā\x0001\x0000 dropped $\xf000Ȅ\x0001\x0001\xfffein panic...
-\xf000Ā\x0001\x0000 paid out $\xf000Ȅ\x0001\x0001\xfffeto the winner...
-\xf000Ā\x0001\x0000 blacked out!
-\xf000Ā\x0001\x0000 got $\xf000Ȅ\x0001\x0001\xfffefor winning!
-\xf000Ā\x0001\x0000 picked up\xfffe$\xf000Ȅ\x0001\x0001!
-\xf000Č\x0001\x0000 grew to\xfffeLv. \xf000Ȃ\x0001\x0001!
-Oh, no!\xfffeThe Pokémon broke free!
-Aww!\xfffeIt appeared to be caught!
-Aargh!\xfffeAlmost had it!
-Shoot!\xfffeIt was so close, too!
-Gotcha!\xfffe\xf000ā\x0001\x0000 was caught!
-\xf000ā\x0001\x0000's data was\xfffeadded to the Pokédex.
-The Trainer blocked the ball!\xf000븁\x0000\xfffeDon't be a thief!
-But it had no effect!
-What will \xf000Č\x0001\x0000 do?
-What will \xf000Ā\x0001\x0000 do?
-\xf000븉\x0001<But it failed!
-Got away safely!
-Couldn't get away!
-Can't escape!
-The wild \xf000Ă\x0001\x0000 fled!
-No! There's no running\xfffefrom a Trainer battle!
-Would you like to forfeit the match\xfffeand quit now?
-It's super effective!
-It's not very effective...
-It hurt itself in its confusion!
-A critical hit!
-But there was no PP left\xfffefor the move!
-\xf000Ā\x0001\x0000 came to the rescue\xfffeto restore \xf000Ă\x0001\x0001's health!
-The sunlight turned harsh!
-It started to rain!
-A sandstorm kicked up!
-It started to hail!
-Fog crept up as thick as soup!
-The sunlight faded.
-The rain stopped.
-The sandstorm subsided.
-The hail stopped.
-The fog lifted.
-The effects of weather disappeared.
-The sandstorm rages.
-The hail crashes down.
-It's a one-hit KO!
-The \xf000ĉ\x0001\x0000 weakened\xfffe\xf000ć\x0001\x0001's power!
-The \xf000ĉ\x0001\x0000 allows the\xfffeuse of only \xf000ć\x0001\x0001!
+??
+Apareceu um\xf000a\x0001\x0000selvagem!
+Oh! Apareceram um\xf000a\x0001\x0000e um\xfffe\xf000a\x0001\x0001selvagens!
+Apareceu um\xf000a\x0001\x0000!
+Apareceu um\xf000a\x0001\x0000selvagem!
+O\xf000a\x0001\x0000que o teu Pokémon\xfffeviu no sonho apareceu!
+Apareceu um\xf000a\x0001\x0000!
+Foste desafiado pelo\xfffe\xf000D\x0001\x0000\xf000A\x0001\x0001!\xf000?\x0000
+Foste desafiado pelo\xfffe\xf000A\x0001\x0000!\xf000?\x0000
+Foste desafiado pelo\xfffe\xf000D\x0001\x0000\xf000A\x0001\x0001e pelo\xf000?\x0000\xfffe\xf000D\x0001\x0002\xf000A\x0001\x0003!\xf000?\x0000
+Foste desafiado pelo\xfffe\xf000A\x0001\x0000e pelo\xf000A\x0001\x0001!\xf000?\x0000
+Vai!\xf000A\x0001\x0000!
+Vai!\xf000A\x0001\x0000e\xfffe\xf000A\x0001\x0001!
+Vai!\xf000A\x0001\x0000,\xfffe\xf000A\x0001\x0001,e\xf000A\x0001\x0002!
+O\xf000D\x0001\x0000\xf000A\x0001\x0001\xfffelançou o\xf000A\x0001\x0002!
+O\xf000D\x0001\x0000\xf000A\x0001\x0001lançou o\xfffe\xf000A\x0001\x0002e o\xf000A\x0001\x0003!
+O\xf000D\x0001\x0000\xf000A\x0001\x0001lançou o\xfffe\xf000A\x0001\x0002, o\xf000A\x0001\x0003,o\xf000?\x0000\xfffee o\xf000A\x0001\x0004!
+O\xf000A\x0001\x0000lançou o\xfffe\xf000A\x0001\x0001!
+\xf000A\x0001\x0000lançou o\xfffe\xf000A\x0001\x0001e o\xf000A\x0001\x0002!
+\xf000A\x0001\x0000lançou o\xfffe\xf000A\x0001\x0001, o\xf000A\x0001\x0002,\xf000?\x0000\xfffee o\xf000A\x0001\x0003!
+O\xf000D\x0001\x0000 \xf000A\x0001\x0001está\xfffeprestes a lançar o\xf000A\x0001\x0002.\xf000?\x0000\xfffeVais substituir o teu Pokémon?
+Está nas tuas mãos,\xf000A\x0001\x0000!
+Força,\xf000A\x0001\x0000!
+Só mais um pouco!\xfffeAguenta-te, \xf000A\x0001\x0000!
+O teu adversário está fraco!\xfffeAcaba com ele,\xf000A\x0001\x0000!
+\xf000A\x0001\x0000,retrocede!\xfffeVolta!
+\xf000A\x0001\x0000,volta!
+Já chega,\xf000A\x0001\x0000!\xfffeVolta!
+OK,\xf000A\x0001\x0000!\xfffeVolta!
+Bom trabalho,\xf000A\x0001\x0000!\xfffeVolta!
+O\xf000D\x0001\x0000\xf000A\x0001\x0001\xffferetrocedeu o\xf000A\x0001\x0002!
+O\xf000A\x0001\x0000\xffferetrocedeu o\xf000A\x0001\x0001!
+Carregaste\xf000?\x0001\x0000vez(es)!
+O\xf000A\x0001\x0000usou o\xfffe\xf000c\x0001\x0001.
+\xf000A\x0001\x0000usou o\xfffe\xf000c\x0001\x0001.
+O\xf000D\x0001\x0000\xf000A\x0001\x0001\xfffeusou um\xf000c\x0001\x0002!
+O\xf000A\x0001\x0000atirou o\xf000c\x0001\x0002\xfffeem direcção ao\xf000A\x0001\x0001!
+Não podes usar o teu\xfffeWonder Launcher agora!
+O Pokémon do\xf000A\x0001\x0000\xffferodou para a esquerda!
+O Pokémon do\xf000A\x0001\x0000\xffferodou para a esquerda!
+O Pokémon do\xf000A\x0001\x0000\xffferodou para a direita!
+O Pokémon do\xf000A\x0001\x0000\xffferodou para a direita!
+O\xf000C\x0001\x0000obteu\xfffe\xf000?\x0001\x0001Pontos de Exp!
+\xf000C\x0001\x0000ganhou um maior número de\xfffe\xf000?\x0001\x0001Pontos de Exp!
+O jogador derrotou o\xfffe\xf000D\x0001\x0000\xf000A\x0001\x0001!
+O jogador derrotou o\xfffe\xf000D\x0001\x0000\xf000A\x0001\x0001\xf000?\x0000\xfffee o\xf000D\x0001\x0002\xf000A\x0001\x0003!
+O jogador perdeu contra o\xfffe\xf000D\x0001\x0000\xf000A\x0001\x0001!
+O jogador empatou contra o\xfffe\xf000D\x0001\x0000\xf000A\x0001\x0001!
+O jogador derrotou o\xfffe\xf000A\x0001\x0000!
+O jogador derrotou o\xf000A\x0001\x0000\xfffee o\xf000A\x0001\x0001!
+O jogador perdeu contra o\xfffe\xf000A\x0001\x0000!
+O jogador perdeu contra o\xf000A\x0001\x0000\xfffee o\xf000A\x0001\x0001!
+O jogador empatou contra o\xfffe\xf000A\x0001\x0000!
+O jogador empatou contra o\xfffe\xf000A\x0001\x0000e o\xf000A\x0001\x0001!
+O\xf000A\x0001\x0000já não tem\xfffePokémon utilizáveis!\xf000?\x0000
+O\xf000A\x0001\x0000deixou cair$\xf000?\x0001\x0001\xfffeem pânico...
+O\xf000A\x0001\x0000pagou$\xf000?\x0001\x0001\xfffeao vencedor...
+O\xf000A\x0001\x0000desmaiou!
+O\xf000A\x0001\x0000obteve$\xf000?\x0001\x0001\xfffepela vitória!
+O\xf000A\x0001\x0000apanhou\xfffe$\xf000?\x0001\x0001!
+O\xf000C\x0001\x0000cresceu para o\xfffeNv.\xf000?\x0001\x0001!
+Oh, não!\xfffeO Pokémon fugiu!
+Ohhh!\xfffePareceu que foi capturado!
+Aargh!\xfffeQuase que o tinha!
+Caramba!\xfffeEra mesmo quase!
+Toma!\xfffeO\xf000a\x0001\x0000foi apanhado!
+A informação do\xf000a\x0001\x0000foi\xfffeadicionada ao Pokédex.
+O Treinador bloqueou a bola!\xf000?\x0000\xfffeNão te armes em ladrão!
+Mas não teve efeito!
+O que vai fazer o\xf000C\x0001\x0000?
+O que vai fazer o\xf000A\x0001\x0000?
+\xf000?\x0001<Mas falhou!
+Fugiste com segurança!
+Não conseguiste fugir!
+Não consegues escapar!
+O\xf000A\x0001\x0000selvagem fugiu!
+Não! Nada de fugas\xfffede uma batalha de Treinadores!
+Queres desistir da batalha agora?
+É muito eficaz!
+Não é muito eficaz...
+Magoou-se a si próprio\xfffedurante a confusão!
+Foi um golpe crítico!
+Mas não há mais PP\xfffepara o ataque!
+O\xf000A\x0001\x0000veio em salvação\xfffepara restaurar a saúde do\xf000A\x0001\x0001!
+A luz solar tornou-se áspera!
+Começou a chover!
+Surgiu uma tempestade de areia!
+Começou a saraivar!
+Apareceu um nevoeiro tão espesso como a sopa!
+A luz solar desvaneceu-se.
+A chuva parou.
+A tempestade de areia baixou.
+O granizo parou.
+O nevoeiro passou.
+Os efeitos do tempo desapareceram.
+A tempestade de areia intensificou-se.
+O granizo caiu com estrondo.
+Foi um KO instantâneo!
+O\xf000c\x0001\x0000enfraqueceu o poder do\xfffe\xf000c\x0001\x0001!
+O\xf000c\x0001\x0000apenas permite\xfffeo uso do\xf000c\x0001\x0001!
 \xf000Č\x0001\x0000 can use only\xfffe\xf000ć\x0001\x0001!
 All stat changes were eliminated!
 But nothing happened!
