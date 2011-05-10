@@ -97,11 +97,11 @@ A tempestade de areia intensificou-se.
 O granizo caiu com estrondo.
 Foi um KO instantâneo!
 O\xf000c\x0001\x0000enfraqueceu o poder do\xfffe\xf000c\x0001\x0001!
-O\xf000c\x0001\x0000apenas permite\xfffeo uso do\xf000c\x0001\x0001!
-\xf000Č\x0001\x0000 can use only\xfffe\xf000ć\x0001\x0001!
-All stat changes were eliminated!
-But nothing happened!
-\xf000Ă\x0001\x0000's\xfffe\xf000Ć\x0001\x0001
+O\xf000c\x0001\x0000permite apenas\xfffeo uso do\xf000c\x0001\x0001!
+O\xf000C\x0001\x0000permite apenas o\xfffe\xf000c\x0001\x0001!
+Todas as alterações das estatísticas foram eliminadas!
+Mas não aconteceu nada!
+O\xf000C\x0001\x0001do\xfffe\xf000A\x0001\x0000
 Magnitude 4!
 Magnitude 5!
 Magnitude 6!
@@ -110,91 +110,91 @@ Magnitude 8!
 Magnitude 9!
 Magnitude 10!
 A bell chimed!
-A soothing aroma wafted\xfffethrough the area!
-The battlers shared\xfffetheir pain!
-Fire's power was weakened!
-Electricity's power was weakened!
-The twisted dimensions returned\xfffeto normal!
-Gravity intensified!
-Gravity returned to normal!
-All Pokémon hearing the song\xfffewill faint in three turns!
-Waggling a finger\xfffelet it use \xf000ć\x0001\x0000!
-Nature Power turned into\xfffe\xf000ć\x0001\x0000!
-Coins were scattered everywhere!
-It was too weak to make\xfffea substitute!
-Reflect raised your team's\xfffeDefense!
-Reflect raised the\xfffeopposing team's Defense!
-Your team's Reflect\xfffewore off!
-The opposing team's Reflect\xfffewore off!
-Light Screen raised your team's\xfffeSpecial Defense!
-Light Screen raised\xfffethe opposing team's Special Defense!
-Your team's Light Screen\xfffewore off!
-The opposing team's Light Screen\xfffewore off!
-Your team became cloaked in\xfffea mystical veil!
-The foe's team became\xfffecloaked in a mystical veil!
-Your team is no longer protected\xfffeby Safeguard!
-The foe's team is no longer protected\xfffeby Safeguard!
-Your team became\xfffeshrouded in mist!
-The foe's team became\xfffeshrouded in mist!
-Your team is no longer protected\xfffeby mist!
-The foe's team is no longer protected\xfffeby mist!
-The tailwind blew from behind\xfffeyour team!
-The tailwind blew from behind\xfffethe foe's team!
-Your team's tailwind petered out!
-The foe's team's tailwind petered out!
-The Lucky Chant shielded your team\xfffefrom critical hits!
-The Lucky Chant shielded the opposing team\xfffefrom critical hits!
-Your team's Lucky Chant wore off!
-The opposing team's Lucky Chant wore off!
-Spikes were scattered all around\xfffeyour team's feet!
-Spikes were scattered all around\xfffethe feet of the foe's team!
-The spikes disappeared from\xfffearound your team's feet!
-The spikes disappeared from\xfffearound the foe's team's feet!
-Poison spikes were scattered all\xfffearound your team's feet!
-Poison spikes were scattered all\xfffearound the foe's team's feet!
-The poison spikes disappeared\xfffefrom around your team's feet!
-The poison spikes disappeared\xfffefrom around the foe's team's feet!
-Pointed stones float in the air\xfffearound your team!
-Pointed stones float in the air\xfffearound your foe's team!
-The pointed stones disappeared\xfffefrom around your team!
-The pointed stones disappeared\xfffefrom around the foe's team!
-Wide Guard protected your team!
-Wide Guard protected the foe's team!
-Quick Guard protected your team!
-Quick Guard protected the foe's team!
-A rainbow appeared in the sky\xfffeon your team's side!
-A rainbow appeared in the sky\xfffeon the foe's team's side!
-The rainbow on your team's side\xfffedisappeared!
-The rainbow on the foe's team's side\xfffedisappeared!
-A sea of fire enveloped\xfffeyour team!
-A sea of fire enveloped\xfffethe foe's team!
-The sea of fire around your team\xfffedisappeared!
-The sea of fire around the foe's team\xfffedisappeared!
-A swamp enveloped your team!
-A swamp enveloped the\xfffefoe's team!
-The swamp around your team\xfffedisappeared!
-The swamp around the foe's team\xfffedisappeared!
-Your team is too nervous to\xfffeeat Berries!
-The foe's team is too nervous to\xfffeeat Berries!
-It created a bizarre area in which\xfffethe Defense and Sp. Def stats are swapped!
-Wonder Room wore off, and the Defense\xfffeand Sp. Def stats returned to normal!
-It created a bizarre area in which\xfffePokémon's held items lose their effects!
-Magic Room wore off, and the held items'\xfffeeffects returned to normal!
-The \xf000ĉ\x0001\x0000 strengthened\xfffe\xf000ć\x0001\x0001's power!
-The time limit is up!\xfffeThe battle will end!
-The battle is too long.\xfffePlayback canceled.
-Zen Mode triggered!
-Zen Mode ended!
-The two moves are joined!\xfffeIt's a combined move!
-\xf000Č\x0001\x0000 won't obey!
-\xf000Č\x0001\x0000 is\xfffeloafing around!
-\xf000Č\x0001\x0000 turned away!
-\xf000Č\x0001\x0000 pretended\xfffenot to notice!
-\xf000Č\x0001\x0000 ignored orders!
-\xf000Č\x0001\x0000 began to nap!
-\xf000Č\x0001\x0000 ignored\xfffeorders while asleep!
-Automatic center!
-But it's not where this item\xfffecan be used!
-Sky Drop won't let \xf000Č\x0001\x0000 go!
-The match was forfeited.
-(\xf000Ȁ\x0001\x0000)'s Metronome \xf000Ȃ\x0001\x0001:\xf000ć\x0001\x0002
+Um aroma calmante flutuou\xfffepela área!
+Os combatentes partilharam\xfffea sua dor!
+O poder do fogo foi enfraquecido!
+O poder da electricidade foi enfraquecido!
+As dimensões torcidas\xfffevoltaram ao normal!
+A gravidade intensificou-se!
+A gravidade voltou ao normal!
+Todos os Pokémon que ouvem esta canção\xfffevão desmaiar em três turnos!
+Abanar o seu dedo\xfffepermite-lhe usar o\xf000c\x0001\x0000!
+O Nature Power transformou-se em\xfffe\xf000c\x0001\x0000!
+Caíram moedas por todo o lado!
+Foi fraco demais para criar\xfffeum substituto!
+O Reflect aumentou a Defesa\xfffeda tua equipa!
+O Reflect aumentou a Defesa\xfffeda equipa adversária!
+O Reflect da tua equipa\xfffepassou!
+O Reflect da equipa adversária\xfffepassou!
+O Light Screen aumentou a Defesa Especial\xfffeda tua equipa!
+O Light Screen aumentou\xfffea Defesa Especial da equipa adversária!
+O Light Screen da tua equipa\xfffepassou!
+O Light Screen da equipa adversária\xfffepassou!
+A tua equipa ficou coberta\xfffepor um véu místico!
+A equipa adversária ficou\xfffecoberta por um véu místico!
+A tua equipa já não está protegida\xfffepelo Safeguard!
+A equipa adversária já não está protegida\xfffepelo Safeguard!
+A tua equipa ficou\xfffeenvolvida por neblina!
+A equipa adversária ficou\xfffeenvolvida por neblina!
+A tua equipa já não está protegida\xfffepela neblina!
+A equipa adversária já não está protegida\xfffepela neblina!
+Soprou vento favorável detrás\xfffeda tua equipa!
+Soprou vento favorável detrás\xfffeda equipa adversária!
+O teu vento favorável acabou-se!
+O vento favorável da equipa adversária acabou-se!
+O Lucky Chant protegeu a tua equipa\xfffede golpes críticos!
+O Lucky Chant protegeu a equipa adversária\xfffede golpes críticos!
+O Lucky Chant da tua equipa passou!
+O Lucky Chant da equipa adversária passou!
+Espigões espalharam-se à volta\xfffedos pés da tua equipa!
+Espigões espalharam-se à volta\xfffedos pés da equipa adversária!
+Os espigões à volta dos pés\xfffeda tua equipa desapareceram!
+Os espigões à volta dos pés\xfffeda equipa adversária desapareceram!
+Espigões venenosos espalharam-se\xfffeà volta da tua equipa!
+Espigões venenosos espalharam-se\xfffeà volta da equipa adversária!
+Os espigões venenosos à volta dos pés\xfffeda tua equipa desapareceram!
+Os espigões venenosos à volta dos pés\xfffeda equipa adversária desapareceram!
+Pedras pontiagudas flutuam no ar\xfffeà volta da tua equipa!
+Pedras pontiagudas flutuam no ar\xfffeà volta da equipa adversária!
+As pedras pontiagudas à volta\xfffeda tua equipa desapareceram!
+As pedras pontiagudas à volta\xfffeda equipa adversária desapareceram!
+O Wide Guard protegeu a tua equipa!
+O Wide Guard protegeu a equipa adversária!
+O Quick Guard protegeu a tua equipa!
+O Quick Guard protegeu a equipa adversária!
+Apareceu um arco-íris no céu\xfffeno lado da tua equipa!
+Apareceu um arco-íris no céu\xfffeno lado da equipa adversária!
+O arco-íris do lado da tua equipa\xfffedesapareceu!
+O arco-íris do lado da equipa adversária\xfffedesapareceu!
+Um mar de fogo envolveu\xfffea tua equipa!
+Um mar de fogo envolveu\xfffea equipa adversária!
+O mar de fogo à volta da tua equipa\xfffedesapareceu!
+O mar de fogo à volta da equipa adversária\xfffedesapareceu!
+Um pântano envolveu a tua equipa!
+Um pântano envolveu a\xfffeequipa adversária!
+O pântano à volta da tua equipa\xfffedesapareceu!
+O pântano à volta da equipa adversária\xfffedesapareceu!
+A tua equipa está demasiado nervosa\xfffepara comer Bagas!
+A equipa adversária está demasiado nervosa\xfffepara comer Bagas!
+Criou uma área bizarra na qual\xfffeas estatísticas da Defesa e Defesa Esp.\xfffesão trocadas!
+O Wonder Room passou, e com ele as estatísticas\xfffeda Defesa e Defesa Esp. voltaram ao normal!
+Criou uma área bizarra na qual\xfffeos items carregados pelos Pokémon perdem o seu efeito!
+O Magic Room passou, e os efeitos dos items carregados\xfffevoltou ao normal!
+O\xf000c\x0001\x0000fortaleceu o poder do\xfffe\xf000c\x0001\x0001!
+Acabou o tempo limite!\xfffeA batalha vai terminar!
+A batalha é longa demais.\xfffeA Reprodução foi cancelada.
+Foi activado o Zen Mode!
+O Zen Mode terminou!
+Os dois ataques juntaram-se!\xfffeÉ uma combinação!
+O\xf000C\x0001\x0000não obedece!
+O\xf000C\x0001\x0000não está\xfffea fazer nada!
+O\xf000C\x0001\x0000virou as costas!
+O\xf000C\x0001\x0000fingiu\xfffenão ter reparado!
+O\xf000C\x0001\x0000ignorou as orders!
+O\xf000C\x0001\x0000começou a sesta!
+O\xf000C\x0001\x0000ignorou\xfffeas ordens durante o sono!
+Centrar automático!
+Mas não é aqui que o item\xfffepode ser usado!
+O Sky Drop não liberta o\xf000C\x0001\x0000!
+A batalha foi abandonada.
+(O Metronome do\xf000?\x0001\x0000)\xf000?\x0001\x0001:\xf000c\x0001\x0002
