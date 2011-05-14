@@ -1,61 +1,61 @@
-Would you like to save the last battle\xfffeas your Battle Video?
+Gostarías de guardar a última batalha\xfffecomo teu Vídeo de Batalha?
 
 
-The last battle will not be saved.\xfffeOK?
+A última batalha não será guardada.\xfffeOK?
 
 
-Is it OK to overwrite your existing\xfffeBattle Video?
+Queres substituir o teu\xfffeVídeo de Batalha?
 
 
-Saving your Battle Video...\xfffeDon't turn off the power.
-The Battle Video has been saved.
-There was an error.\xfffeThe Battle Video couldn't be saved.
-Awaiting your friend's decision...\xfffePlease wait.
-You cannot record videos\xfffewith this Trainer... Please wait.
-You cannot record videos\xfffewith this Trainer.
-The last battle cannot be recorded.
-Time Limit:
+A guardar o teu Vídeo de Batalha...\xfffeNão desligues a energia.
+O Vídeo de Batalha foi guardado.
+Ocorreu um erro.\xfffeNão foi possível guardar o Vídeo de Batalha.
+À espera da decisão do teu amigo...\xfffePor favor, espera.
+Não podes gravar vídeos\xfffecom este Treinador... Por favor, espera.
+Não podes gravar vídeos\xfffecom este Treinador.
+Não foi possível gravar a última batalha.
+Tempo Limite:
 
 \xf000ȁ\x0001\x0001
-PREVIOUS RECORD
-Colosseum Single,\xfffeNo Restrictions
-Colosseum Single,\xfffeFlat
-Colosseum Single,\xfffeNo Restrictions, Launcher On
-Colosseum Single,\xfffeFlat, Launcher On
-Colosseum Double,\xfffeNo Restrictions
-Colosseum Double,\xfffeFlat
-Colosseum Double,\xfffeNo Restrictions, Launcher On
-Colosseum Double,\xfffeFlat, Launcher On
-Colosseum Triple,\xfffeNo Restrictions
-Colosseum Triple,\xfffeFlat
-Colosseum Triple,\xfffeNo Restrictions, Launcher On
-Colosseum Triple,\xfffeFlat, Launcher On
-Colosseum Rotation,\xfffeNo Restrictions
-Colosseum Rotation,\xfffeFlat
-Colosseum Rotation,\xfffeNo Restrictions, Launcher On
-Colosseum Rotation,\xfffeFlat, Launcher On
-Colosseum Multi,\xfffeNo Restrictions
-Colosseum Multi,\xfffeFlat
-Colosseum Multi,\xfffeNo Restrictions, Launcher On
-Colosseum Multi,\xfffeFlat, Launcher On
-Battle Subway,\xfffeSingle
-Battle Subway,\xfffeDouble
+REGISTO ANTERIOR
+Coliseu Individual,\xfffeSem Restrições
+Coliseu Individual,\xfffePlano
+Coliseu Individual,\xfffeSem Restrições, Lançador Ligado
+Coliseu Individual,\xfffePlano, Lançador Ligado
+Coliseu Duplo,\xfffeSem Restrições
+Coliseu Duplo,\xfffePlano
+Coliseu Duplo,\xfffeSem Restrições, Lançador Ligado
+Coliseu Duplo,\xfffePlano, Lançador Ligado
+Coliseu Triplo,\xfffeSem Restrições
+Coliseu Triplo,\xfffePlano
+Coliseu Triplo,\xfffeSem Restrições, Lançador Ligado
+Coliseu Triplo,\xfffePlano, Lançador Ligado
+Rotação de Coliseu,\xfffeSem Restrições
+Rotação de Coliseu,\xfffePlano
+Rotação de Coliseu,\xfffeSem Restrições, Lançador Ligado
+Rotação de Coliseu,\xfffePlano, Lançador Ligado
+Coliseu Multi,\xfffeSem Restrições
+Coliseu Multi,\xfffePlano
+Coliseu Multi,\xfffeSem Restrições, Lançador Ligado
+Coliseu Multi,\xfffePlano, Lançador Ligado
+Battle Subway,\xfffeIndividual
+Battle Subway,\xfffeDuplo
 Battle Subway,\xfffeMulti
-Random Matchup, Free\xfffeSingle
-Random Matchup, Free\xfffeDouble
-Random Matchup, Free\xfffeTriple
-Random Matchup, Free\xfffeRotation
-Random Matchup, Free\xfffeLauncher Battle
-Random Matchup, Rating\xfffeSingle
-Random Matchup, Rating\xfffeDouble
-Random Matchup, Rating\xfffeTriple
-Random Matchup, Rating\xfffeRotation
-Random Matchup, Rating\xfffeLauncher Battle
-Competition, Single\xfffeLauncher Off
-Competition, Single\xfffeLauncher On
-Competition, Double\xfffeLauncher Off
-Competition, Double\xfffeLauncher On
-Competition, Triple\xfffeLauncher Off
-Competition, Triple\xfffeLauncher On
-Competition, Rotation\xfffeLauncher Off
-Competition, Rotation\xfffeLauncher On
+Encontro Aleatório, Livre\xfffeIndividual
+Encontro Aleatório, Livre\xfffeDuplo
+Encontro Aleatório, Livre\xfffeTriplo
+Encontro Aleatório, Livre\xfffeRotação
+Encontro Aleatório, Livre\xfffeBatalha de Lançador
+Encontro Aleatório, Classificação\xfffeIndividual
+Encontro Aleatório, Classificação\xfffeDuplo
+Encontro Aleatório, Classificação\xfffeTriplo
+Encontro Aleatório, Classificação\xfffeRotação
+Encontro Aleatório, Classificação\xfffeBatalha de Lançador
+Competição, Individual\xfffeLançador Desligado
+Competição, Individual\xfffeLançador Ligado
+Competição, Duplo\xfffeLançador Desligado
+Competição, Duplo\xfffeLançador Ligado
+Competição, Triplo\xfffeLançador Desligado
+Competição, Triplo\xfffeLançador Ligado
+Competição, Rotação\xfffeLançador Desligado
+Competição, Rotação\xfffeLançador Ligado
